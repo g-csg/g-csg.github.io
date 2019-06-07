@@ -5,6 +5,12 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - Better viewing on mobile!
  - **A constant state of incompleteness!**
 
+## Main Design Issues:
+ - [x] Should look good on mobile
+ - [ ] Needs vertical space for individual product overviews
+ - [ ] Can't use collapsible menus via HTML (works but renders oddly)
+ - [ ] Top header for different sections
+
 ## Notes for Contributors
  - Make sure to 'force reload' in browser to see changes
  - I use  [this markdown editor](https://dillinger.io/)
