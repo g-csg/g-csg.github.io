@@ -1,2 +1,9 @@
 # vim
 *.swp
+
+# jekyll
+_drafts/
+_site/
+
+# other
+.DS_Store
