@@ -9,14 +9,14 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - [x] Should look good on mobile
  - [ ] Needs vertical space for individual product overviews
  - [ ] Can't use collapsible menus via HTML (works but renders oddly)
- - [ ] Top header for different sections
+ - [ ] Top header (or "navigation bar") for different sections
+ - [ ] Needs dark theme 
 
 ## Notes for Contributors
  - Make sure to 'force reload' in browser to see changes
- - I use  [this markdown editor](https://dillinger.io/)
- - Use a single space for starting bulleted point lists (like this one)
- - Use `<br>` for line breaks, may not render properly in certain editors
- - Use the following for collaspable headers: TODO
+ -[This markdown editor](https://dillinger.io/) may be useful, but does not support HTML rendering
+ - Use `<br>` for line breaks
+ - Don't use [collapsable menus](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f#file-readme-md), they do not render properly (unless you happen to get them to work, that is)
 
 ## Todo:
  - [ ] Parse this: https://pastebin.com/Dswfp9Ag
