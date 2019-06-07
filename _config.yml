@@ -1,0 +1,17 @@
+# file: _config.yml
+# the  following is taken from:
+# https://github.com/rootsongjc/cheatsheets/blob/master/kramdown.md
+# https://jekyllrb.com/docs/configuration/markdown/
+#
+# Also see:
+# https://help.github.com/en/articles/configuring-jekyll-plugins
+
+include:
+    - pages
+
+markdown: kramdown
+kramdown:
+    input: GFM             # for Jekyll (gh-pages)
+    parse_block_html: true # process kramdown syntax inside blocks
+    #parse_span_html: true  # process kramdown syntax inside inlines
+    #html_to_native: true  # convert HTML elements to native elements(?)
