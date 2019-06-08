@@ -5,12 +5,16 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - Better viewing on mobile!
  - **A constant state of incompleteness!**
 
-## Main Design Issues:
- - [x] Should look good on mobile
- - [ ] Needs vertical space for individual product overviews
- - [ ] Can't use collapsible menus via HTML (works but renders oddly)
- - [ ] Top header (or "navigation bar") for different sections
- - [ ] Needs dark theme 
+## Main Goals:
+ - Should look good on mobile
+ - Top header (or "navigation bar") for different sections
+
+## Stretch Goals
+ - dark theme 
+
+## Issues
+ - Can't use collapsible menus via HTML (works but renders oddly)
+ - Needs vertical space for individual product overviews
 
 ## Notes for Contributors
  - Make sure to 'force reload' in browser to see changes
@@ -23,7 +27,7 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - [ ] Parse this: https://www.reddit.com/r/MouseReview/comments/ac2gu3/relatively_unknown_korean_brand_mice_but_have/
  - [ ] Port everything from excel to here
  - [ ] Organize prices
- - [ ] Start and finish new section: [Western Mice](#rmousereview)
+ - [ ] Start and finish new section: Western Mice
  - [ ] add external resource links
  - [ ] Add introduction
  - [ ] Add stores
@@ -85,10 +89,9 @@ TODO
 | OnePlus 7 | 500-700 | " | Image 3 |
 
 Additional Resources:
- - willmyphonework.net, a band compatability checker
- - www.frequencycheck.com another band compatability checker
- - kimovil.com, a very useful phone comparison website with live price-checks
-
+ - [willmyphonework.net](https://willmyphonework.net/), a band compatability checker
+ - [frequencycheck.com](https://www.frequencycheck.com/) another band compatability checker
+ - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks
 
 ## Consumer Electronics
 
@@ -174,18 +177,10 @@ TODO:
  - add "premium" models (ducky, varmillo, lepold) 
  - add "chinese premium" (plum, noppoo, ikbc, NiZ)
  - add text about custom keyboards
- - add keycap materials matrix (or steal one)
+ - add keycap materials information (or table)
 
 ## Computer Mice
 
-| Mouse Skates (or Feet) | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Tiger Gaming (or Tiger Arc) | a | Notes 1 | Image 1 |
-| Glorious G-Skates | a | Notes 1 | Image 1 |
-| Corepad Skatez | a | Notes 1 | Image 1 |
-| Hotline Games | a | Notes 1 | Image 1 |
-| Hyperglides | a | Notes 1 | Image 1 |
-| Lexip Ceramic | a | Notes 1 | Image 1 |
 
 | Chinese FPS Mice | Price (USD) | Notes | Image |
 |-|-|-|-|
@@ -216,6 +211,18 @@ TODO:
 | Productivity Mice | Price (USD) | Notes | Image |
 |-|-|-|-|
 | Rapoo MT750 | Price1 USD | Notes 1 | Image 1 |
+
+| Mouse Skates (or Feet) | Price (USD) | Notes | Image |
+|-|-|-|-|
+| Tiger Gaming (or Tiger Arc) | a | Notes 1 | Image 1 |
+| Glorious G-Skates | a | Notes 1 | Image 1 |
+| Corepad Skatez | a | Notes 1 | Image 1 |
+| Hotline Games | a | Notes 1 | Image 1 |
+| Hyperglides | a | Notes 1 | Image 1 |
+| Lexip Ceramic | a | Notes 1 | Image 1 |
+
+TODO: Custom mousepads
+
 
 Additional Resources:
  - [/r/MouseReview, a Reddit community focused on... reviewing mice](https://www.reddit.com/r/MouseReview)
@@ -269,7 +276,7 @@ Additional Resources:
 | Zero Audio Tenore| Price1 USD | Notes 1 | Image 1 |
 | Etymotic HF5 | Price1 USD | Notes 1 | Image 1 |
 | Final Audio E4000 | Price1 USD | Notes 1 | Image 1 |
-| Etymotic ER2SR | Price1 USD | Notes 1 | Image 1 |
+| Etymotic ER2SR | Price1 USD | This is a relatively new product! | Image 1 |
 
 | Earphones, "Over-Ear" Fit  | Price (USD) | Notes | Image |
 |-|-|-|-|
@@ -392,8 +399,7 @@ Additional Resources:
 | Sanrenmu GV-504 | 4 | Notes 1 | Image 1 |
 | Sanrenmu 6044 | 10 | Notes 1 | Image 1 |
 | Ganzo Firebird F759M | 10 | Notes 1 | Image 1 |
-| Sanrenmu Land 910+ | 10 | Notes 1 | Image 1 |
-| Sanrenmu Land 9103/9104 | 10 | Notes 1 | Image 1 |
+| Sanrenmu Land 910+/9103/9104 | 10 | Notes 1 | Image 1 |
 | Ganzo G704 | 10 | Notes 1 | Image 1 |
 | Ganzo F7562 | 10 | Notes 1 | Image 1 |
 | Ganzo G729/G730 | 10 | Notes 1 | Image 1 |
