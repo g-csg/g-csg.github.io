@@ -20,7 +20,7 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - Make sure to 'force reload' in browser to see changes
  -[This markdown editor](https://dillinger.io/) may be useful, but does not support HTML rendering
  - Use `<br>` for line breaks
- - Don't use [collapsable menus](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f#file-readme-md), they do not render properly (unless you happen to get them to work, that is)
+ - Don't use [collapsable menus](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f#file-readme-md), they do not render properly
 
 ## Todo:
  - [ ] Parse this: https://pastebin.com/Dswfp9Ag 
@@ -80,7 +80,7 @@ TODO
 | Phones | Price (USD) | Notes | Image |
 |-|-|-|-|
 | Xiaomi Mi A2 | 150 | A budget-ish smartphone, almost a year old. | Image 2 |
-| Xiaomi Redmi Note 7 | 180 | The Redmi Note line is Xiaomi's tried and true, bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>| Image 1 |
+| Xiaomi Redmi Note 7 | 180 | The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>| Image 1 |
 | Xiaomi Pocophone F1 | 280 | Xiaomi's "flagship killer" from over half a year ago<br> | Image 3 |
 | Xiaomi Mi 9 | 400-450 | Notes 3 | Image 3 |
 | Xiaomi Mi Mix 3 | 400-500 | Features a sliding selfie camera. Similar to the Xiaomi Mi 9. | Image 3 |
@@ -127,7 +127,7 @@ TODO
 | EXP GDC | Price2 USD | Notes 2 | Image 2 |
 
 Additional Resources:
- - ssd.borecraft.com - a SSD buying guide in the form of a questionnaire  
+ - [ssd.borecraft.com](https://ssd.borecraft.com/) - a SSD buying guide in the form of a questionnaire  
  - Aegis's [NVME SSD Tier list](https://cdn.discordapp.com/attachments/311579472065331200/566369483413782528/NVMe_Tier_List_v3.png)
  - Aegis's [SATA SSD Tier list]((https://cdn.discordapp.com/attachments/311579472065331200/566369483413782528/NVMe_Tier_List_v3.png))
  - [/pcbg/](https://boards.4channel.org/g/pcbg) - PC Building General on 4chan
@@ -199,17 +199,19 @@ TODO:
 | Western FPS Mice | Price (USD) | Notes | Image |
 |-|-|-|-|
 | Coolermaster MM503 | Price1 USD | Notes 1 | Image 1 |
-| todo | Price1 USD | Notes 1 | Image 1 |
+| TODO | Price1 USD | Notes 1 | Image 1 |
 
 | MMO Mice (Chinese + Western)  | Price (USD) | Notes | Image |
 |-|-|-|-|
 | Havit MS735 | Price1 USD | Notes 1 | Image 1 |
 | Redragon M901 | Price1 USD | Notes 1 | Image 1 |
 | Corsair Scythe (???) | Price1 USD | Notes 1 | Image 1 |
+| TODO | Price1 USD | Notes 1 | Image 1 |
 
 | Productivity Mice | Price (USD) | Notes | Image |
 |-|-|-|-|
 | Rapoo MT750 | Price1 USD | Notes 1 | Image 1 |
+| TODO | Price1 USD | Notes 1 | Image 1 |
 
 | Mouse Skates (or Feet) | Price (USD) | Notes | Image |
 |-|-|-|-|
