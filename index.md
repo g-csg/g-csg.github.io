@@ -2,7 +2,7 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - Contributing
  - Clickable links! (actually, this was always a feature)
  - Lightweight size! (for now until images are added)
- - Better viewing on mobile!
+ - Better viewing on mobile! (unverified)
  - **A constant state of incompleteness!**
 
 ## Main Goals:
@@ -23,14 +23,13 @@ The following markdown file is the *new* /CSG/ infographic! Featuring:
  - Don't use [collapsable menus](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f#file-readme-md), they do not render properly (unless you happen to get them to work, that is)
 
 ## Todo:
- - [ ] Parse this: https://pastebin.com/Dswfp9Ag
+ - [ ] Parse this: https://pastebin.com/Dswfp9Ag 
  - [ ] Parse this: https://www.reddit.com/r/MouseReview/comments/ac2gu3/relatively_unknown_korean_brand_mice_but_have/
- - [ ] Port everything from excel to here
- - [ ] Organize prices
+ - [ ] Add more products
+ - [ ] Add/organize prices
  - [ ] Start and finish new section: Western Mice
  - [ ] add external resource links
- - [ ] Add introduction
- - [ ] Add stores
+ - [ ] Add introduction, stores, buyer protection, shipping times
  - [ ] [Make sections collaspable](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f#file-readme-md)
 
 ## Contributing
@@ -434,7 +433,6 @@ Stores and Sellers:
  - [VESPA Knives](https://www.dhgate.com/store/products/20078986.html) - DHGate store
     
 ## Flashlights
-
 
 | Sub-AAA Sized (TODO: Cut down this list) | Price (USD) | Notes | Image |
 |-|-|-|-|
