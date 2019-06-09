@@ -419,7 +419,6 @@ Additional Resources:
  - [Nick Shabazz Youtube](https://www.youtube.com/channel/UCM_f7DAr6zzIHHYggsq8CrA) - Youtube Reviewer
  - [Nick Shabazz Review List](https://docs.google.com/spreadsheets/d/1Sf9eb6wL0Dm-X58m7dc0vOOw1jc632DI1t9G-GbWJOk/edit#gid=0) - A Google spreadsheet of the knives reviewed by Shabazz
  - [LuvThemKnives Youtube](https://www.youtube.com/channel/UC091qIRbrDgeTFKCXw-6vrQ/videos) - Knife reviewer, does basic 'overview' type reviews, but is the first to review new knives from China.
- - [/r/KnifeClub](https://www.reddit.com/r/knifeclub/) - A Knife community on Reddit
  - [/r/ChineseKnives](https://www.reddit.com/r/ChineseKnives) - A Chinese Knife community on Reddit
  - [/r/BudgetBlades](https://www.reddit.com/r/BudgetBlades) - A Budget Knife community on Reddit
     
@@ -494,3 +493,12 @@ Stores and Sellers:
 | Product 1 | Price1 USD | Notes 1 | Image 1 |
 | Product 2 | Price2 USD | Notes 2 | Image 2 |
 | Product 3 | Price3 USD | Notes 3 | Image 3 |
+
+Stores:
+ - [Neals Gadgets](https://www.nealsgadgets.com)
+ - [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416) - Ran by Simon, who I assume is the sales rep for Convoy
+ - [Sofirn Official Store on Aliexpress](https://www.aliexpress.com/store/2933049)
+ - [Lumintop Official Store on Aliexpress](https://lumintop.aliexpress.com/store/2529001)
+ - [LiitoKala Official Store on Aliexpress](https://liitokalahongkong.aliexpress.com/store/217753)
+ - [BudgetLightForum](http://budgetlightforum.com) - A forum focused on budget flashlights, perhaps the most active flashlight forum currently. 
+ - [Candle Power Forums](https://www.candlepowerforums.com) - A forum focused on flashlights
