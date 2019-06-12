@@ -380,8 +380,8 @@ Additional Resources:
 
 | Chinese Knife Brands | Notes |
 |-|-|
-| Sanrenmu | Notes 1 | 
-| Ganzo | 10 | Notes 1 |
+| Sanrenmu | Evidence suggests they manufacture knives for Ruike, Benchmade, Spyderco, and Real Steel. | 
+| Ganzo or "Ganzo Firebird" | 10 | |
 | Artisan Cutlery | 10 | 
 | Bestech | 10 | 
 | CH Knives | Knife steel hardnesses are sometimes lower than advertised |
@@ -487,6 +487,8 @@ Stores and Sellers:
 | Tank007 KC70 | Price1 USD | Notes 1 | Image 1 |
 | Rofis R2 | Price2 USD | Notes 2 | Image 2 |
 | Convoy H1 | Price3 USD | Notes 3 | Image 3 |
+| Skilhunt H03 | Price3 USD | Notes 3 | Image 3 |
+| Eagle Eye X1R | Price3 USD | Notes 3 | Image 3 |
 
 | Battery Chargers | Price (USD) | Notes | Image |
 |-|-|-|-|
@@ -494,11 +496,13 @@ Stores and Sellers:
 | Product 2 | Price2 USD | Notes 2 | Image 2 |
 | Product 3 | Price3 USD | Notes 3 | Image 3 |
 
+Additional Resources:
+ - [BudgetLightForum](http://budgetlightforum.com) - A forum focused on budget flashlights, perhaps the most active flashlight forum currently. 
+ - [Candle Power Forums](https://www.candlepowerforums.com) - A forum focused on flashlights
+
 Stores:
  - [Neals Gadgets](https://www.nealsgadgets.com)
  - [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416) - Ran by Simon, who I assume is the sales rep for Convoy
  - [Sofirn Official Store on Aliexpress](https://www.aliexpress.com/store/2933049)
  - [Lumintop Official Store on Aliexpress](https://lumintop.aliexpress.com/store/2529001)
  - [LiitoKala Official Store on Aliexpress](https://liitokalahongkong.aliexpress.com/store/217753)
- - [BudgetLightForum](http://budgetlightforum.com) - A forum focused on budget flashlights, perhaps the most active flashlight forum currently. 
- - [Candle Power Forums](https://www.candlepowerforums.com) - A forum focused on flashlights
