@@ -44,19 +44,19 @@ If you'd rather send me a message, ideas, or don't want to learn Git, you can al
 TODO
 
 ## Sections
-[All Sections!](all.md)
-[Phones](phones.md)
-[Consumer Electronics](celectronics.md)
-[PC Building](pcbuilding.md)
-[Mechanical Keyboards](keyboards.md)
-[Computer Mice](mice.md)
-[In-Ear Earphones and Earbuds](iems.md)
-[Headphones](headphones.md)
-[Digital Audio Players, DACs and Amplifiers](audiosources.md)
-[Microphones](microphones.md)
-['DIY' Electronics](electronics.md)
-[Tools and Knives](tools.md)
-[Flashlights and Batteries](flashlights.md)
+[All Sections!](all.md)<br>
+[Phones](phones.md)<br>
+[Consumer Electronics](celectronics.md)<br>
+[PC Building](pcbuilding.md)<br>
+[Mechanical Keyboards](keyboards.md)<br>
+[Computer Mice](mice.md)<br>
+[In-Ear Earphones and Earbuds](iems.md)<br>
+[Headphones](headphones.md)<br>
+[Digital Audio Players, DACs and Amplifiers](audiosources.md)<br>
+[Microphones](microphones.md)<br>
+['DIY' Electronics](electronics.md)<br>
+[Tools and Knives](tools.md)<br>
+[Flashlights and Batteries](flashlights.md)<br>
 
 
 ## Product Overview Template
@@ -87,3 +87,6 @@ TODO
 
 ## Shipping Times and Services
 TODO
+
+
+
