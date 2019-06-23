@@ -1,6 +1,30 @@
-## Phones
+# Phones
 
-### Before you buy a phone, make sure to check band compatability!
+# Table of Contents
+1. [Before You Buy](#before-you-buy)
+2. [About Mediatek](#about-mediatek)
+3. [About LeEco](#about-leeco)
+4. [About Xiaomi](#about-xiaomi)
+
+# Table of Products
+1. [Xiaomi Mi A2](Xiaomi-Mi-A2)
+2. [Xiaomi Redmi Note 7](Xiaomi-Redmi-Note-7)
+3. [Xiaomi Pocophone F1](Xiaomi-Pocophone-F1)
+4. [Xiaomi Mi 9](Xiaomi-Mi-9)
+5. [Xiaomi Mi Mix 3](Xiaomi-Mi-Mix-3)
+6. [Xiaomi Redmi K20 Pro](Xiaomi-Redmi-K20-Pro)
+7. [OnePlus 7](OnePlus-7)
+
+# Before You Buy
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Xiaomi Mi A2
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.jpg" width="720"></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
 
 | Phones | Price (USD) | Notes | Image |
 |-|-|-|-|
@@ -16,3 +40,5 @@ Additional Resources:
  - [willmyphonework.net](https://willmyphonework.net/), a band compatability checker
  - [frequencycheck.com](https://www.frequencycheck.com/) another band compatability checker
  - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks
+ 
+ 

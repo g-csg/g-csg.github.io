@@ -11,7 +11,7 @@ TODO
 ## Sections
 [All Sections!](all.md)<br>
 [Phones](phones.md)<br>
-[Consumer Electronics](celectronics.md)<br>
+[Consumer Electronics](consumer_electronics.md)<br>
 [PC Building](pcbuilding.md)<br>
 [Mechanical Keyboards](keyboards.md)<br>
 [Computer Mice](mice.md)<br>
