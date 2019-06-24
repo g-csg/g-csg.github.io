@@ -50,7 +50,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 
 
 ## Xiaomi Mi A2
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.jpg" height="720"></p>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.jpg"></p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
