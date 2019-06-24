@@ -22,6 +22,7 @@ TODO
 ['DIY' Electronics](electronics.md)<br>
 [Tools and Knives](tools.md)<br>
 [Flashlights and Batteries](flashlights.md)<br>
+[Watches](watches.md)<br>
 
 ## Product Overview Template
 

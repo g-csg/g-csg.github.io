@@ -8,13 +8,13 @@
 5. [Additional Resources](#additional-resources)
 
 # Table of Products
-1. [Xiaomi Mi A2](xiaomi-mi-a2)
-2. [Xiaomi Redmi Note 7](xiaomi-redmi-note-7)
-3. [Xiaomi Pocophone F1](xiaomi-pocophone-f1)
-4. [Xiaomi Mi 9](xiaomi-mi-9)
-5. [Xiaomi Mi Mix 3](xiaomi-mi-mix-3)
+1. [Xiaomi Mi A2](xiaomi-mi-a2) ($150)
+2. [Xiaomi Redmi Note 7](xiaomi-redmi-note-7) ($180)
+3. [Xiaomi Pocophone F1](xiaomi-pocophone-f1) ($280)
+4. [Xiaomi Mi 9](xiaomi-mi-9) ($400-$500)
+5. [Xiaomi Mi Mix 3](xiaomi-mi-mix-3) ($500+)
 6. [Xiaomi Redmi K20 Pro](xiaomi-redmi-k20-pro)
-7. [OnePlus 7](oneplus-7)
+7. [OnePlus 7](oneplus-7) ($500-$700)
 
 # Before You Buy
 There are two main questions that must be considered with buying a phone from China:
@@ -36,8 +36,17 @@ Mediatek is a Chinese semiconductor company that creates many SoCs (System on a 
 1. Power consumption is signifcantly worse compared to Snapdragon; Snapdragon phones have better battery life in comparison
 2. [Mediatek does not release kernel source code for their chipsets](https://www.xda-developers.com/mediatek-source-code-release-no-plans/); Rarely will you see custom roms or root(ing) support for Mediatek phones because of this.
 
-Custom roms and rooting are outside the scope of this guide, but they greatly extend the life of your device. Custom roms can get updates when official updates stop, allow for a large amount of system-level customization. If it were not for this, I believe, that 
+Custom roms and rooting are outside the scope of this guide, but they greatly extend the life of your device. Custom roms can get updates when official updates stop, allow for a large amount of system-level customization. If it were not for this, Mediatek would be far more popular than it currently is within the budget phone community.
 
+# About LeEco
+LeEco used to make budget and mid-range smartphones but as of mid-2017 they have left the smartphone market. This is most likely because in May 2017 the company began to succumb to financial issues and in July 2017, [LeEco's president fled China after Chinese legal courts froze his assets](https://www.google.com/search?hl=en&biw=1680&bih=950&tbm=nws&ei=lAwQXcL4FI6v5wLmpLGwCQ&q=Jia+Yueting+&oq=Jia+Yueting+&gs_l=psy-ab.3..33i299k1.416.416.0.690.1.1.0.0.0.0.106.106.0j1.1.0....0...1c.1.64.psy-ab..0.1.106....0.-XwanivCwaA. Their phones can be had for fairly cheap now but know that their latest phone(s) are from 2017.
+
+# About Xiaomi
+Xiaomi is well known for their budget smartphones and are gaining more popularity as of recently for their "flagship killers." They are often compared to Apple and sometimes touted as the "Apple of China." They make more than just smartphones; including shoes, smart watches, smart vacuums, facemasks, backpacks, power banks, and hand tools. Most Xiaomi products are of high quality, with a few notable exceptions such as their very low-end phones and the Mediatek varients of some of their phones. I speculate that their popularity in the United States will increase further as they include better band support for their phones for USA carriers.
+
+# Additional Resources
+- [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks and coupons
+- [CouponsFromChina Smartphones](https://couponsfromchina.com/2019/01/26/smartphones-deals-coupons-list-gearbest/) - A website listing Gearbest and Banggood coupons.
 
 
 ## Xiaomi Mi A2
@@ -45,8 +54,8 @@ Custom roms and rooting are outside the scope of this guide, but they greatly ex
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-
+| Phone | Release Date | Price | Chipset | ROM/RAM Sizes | Screen Size | Battery Capacity | 
+|-|-|-|-|-|-|-|
 
 | Phones | Price (USD) | Notes | Image |
 |-|-|-|-|
