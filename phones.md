@@ -48,7 +48,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks and coupons
 - [CouponsFromChina Smartphones](https://couponsfromchina.com/2019/01/26/smartphones-deals-coupons-list-gearbest/) - A website listing Gearbest and Banggood coupons.
 
-** It is currently not possible to center the tables below, see https://stackoverflow.com/q/44172954 **
+<p style="text-align:center;">**It is currently not possible to center the tables below, see https://stackoverflow.com/q/44172954**</p>
 
 ## Xiaomi Mi A2
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
