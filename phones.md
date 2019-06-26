@@ -50,8 +50,8 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 
 
 ## Xiaomi Mi A2
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $150 |
@@ -61,13 +61,14 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 | Chipset			| Snapdragon 660 |
 | ROM/RAM Sizes 	| 4/32, 4/64, 6/128 |
 | Battery Capacity 	| 3000 mAh |
-</center>
+
+</p>
 
 A budget-ish smartphone, About a year old.
 
 ## Xiaomi Redmi Note 7
-<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $170 |
@@ -77,13 +78,14 @@ A budget-ish smartphone, About a year old.
 | Chipset			| Snapdragon 660 |
 | ROM/RAM Sizes 	| 3/32, 4/64, 4/128 |
 | Battery Capacity 	| 4000 mAh |
-</center>
+
+</p>
 
 The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>
 
 ## Xiaomi Pocophone F1
-<p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $280 |
@@ -93,13 +95,14 @@ The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most peo
 | Chipset			| Snapdragon 845 |
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 4000 mAh |
-</center>
+
+</p>
 
 Xiaomi's "flagship killer" from Summer 2018.
 
 ## Xiaomi Mi 9
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $400 |
@@ -109,13 +112,14 @@ Xiaomi's "flagship killer" from Summer 2018.
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 3300 mAh |
-</center>
+
+</p>
 
 Part of Xiaomi's premium smartphone line(s).
 
 ## Xiaomi Redmi K20 Pro
-<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $400 |
@@ -125,13 +129,14 @@ Part of Xiaomi's premium smartphone line(s).
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/64, 6/128, 8/128, 8/256 |
 | Battery Capacity 	| 4000 mAh |
-</center>
+
+</p>
 
 Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. Avoid this phone for now until more reviews are released.
 
 ## Xiaomi Mi Mix 3
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $450 |
@@ -141,13 +146,14 @@ Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for
 | Chipset			| Snapdragon 845 |
 | ROM/RAM Sizes 	| 6/128 |
 | Battery Capacity 	| 3200 mAh |
-</center>
+
+</p>
 
 Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, and features a sliding selfie camera.
 
 ## OnePlus 7
-<p style="text-align:center;"><img src="img/phones/oneplus_7.png"></p>
-<center>
+<p style="text-align:center;"><img src="img/phones/oneplus_7.png">
+
 | Specification 	| Value |
 |-------------------|------:|
 | Price 			| $460+ |
@@ -157,4 +163,5 @@ Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, an
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/128, 8/256 |
 | Battery Capacity 	| 3700 mAh |
-</center>
+
+</p>
