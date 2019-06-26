@@ -12,8 +12,8 @@
 2. [Xiaomi Redmi Note 7](xiaomi-redmi-note-7) ($180)
 3. [Xiaomi Pocophone F1](xiaomi-pocophone-f1) ($280)
 4. [Xiaomi Mi 9](xiaomi-mi-9) ($400-$500)
-5. [Xiaomi Mi Mix 3](xiaomi-mi-mix-3) ($500+)
-6. [Xiaomi Redmi K20 Pro](xiaomi-redmi-k20-pro)
+5. [Xiaomi Redmi K20 Pro](xiaomi-redmi-k20-pro)
+6. [Xiaomi Mi Mix 3](xiaomi-mi-mix-3) ($500+)
 7. [OnePlus 7](oneplus-7) ($500-$700)
 
 # Before You Buy
@@ -50,22 +50,108 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 
 
 ## Xiaomi Mi A2
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.jpg"></p>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A budget-ish smartphone, About a year old.
 
-| Phone | Release Date | Price | Chipset | ROM/RAM Sizes | Screen Size | Battery Capacity | 
-|-|-|-|-|-|-|-|
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $150 |
+| Release Date		| July 2018 |
+| Aspect Ratio		| 18:9 |
+| Screen Size		| 6" |
+| Chipset			| Snapdragon 660 |
+| ROM/RAM Sizes 	| 4/32, 4/64, 6/128 |
+| Battery Capacity 	| 3000 mAh |
 
-| Phones | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Xiaomi Mi A2 | 150 | A budget-ish smartphone, almost a year old. | Image 2 |
-| Xiaomi Redmi Note 7 | 180 | The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>| Image 1 |
-| Xiaomi Pocophone F1 | 280 | Xiaomi's "flagship killer" from over half a year ago<br> | Image 3 |
-| Xiaomi Mi 9 | 400-450 | Notes 3 | Image 3 |
-| Xiaomi Mi Mix 3 | 400-500 | Features a sliding selfie camera. Similar to the Xiaomi Mi 9. | Image 3 |
-| Xiaomi Redmi K20 Pro | 500+ | Xiaomi's newest "flagship killer," Unreleased. | Image 3 |
-| OnePlus 7 | 500-700 | " | Image 3 |
+## Xiaomi Redmi Note 7
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png"></p>
+
+The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $170 |
+| Release Date		| January 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.3" |
+| Chipset			| Snapdragon 660 |
+| ROM/RAM Sizes 	| 3/32, 4/64, 4/128 |
+| Battery Capacity 	| 4000 mAh |
+
+## Xiaomi Pocophone F1
+<p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png"></p>
+
+Xiaomi's "flagship killer" from Summer 2018.
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $280 |
+| Release Date		| August 2018 |
+| Aspect Ratio		| 18:9 |
+| Screen Size		| 6.18" |
+| Chipset			| Snapdragon 845 |
+| ROM/RAM Sizes 	| 6/64, 6/128 |
+| Battery Capacity 	| 4000 mAh |
+
+## Xiaomi Mi 9
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
+
+Part of Xiaomi's premium smartphone line(s).
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $400 |
+| Release Date		| February 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.4" |
+| Chipset			| Snapdragon 855 |
+| ROM/RAM Sizes 	| 6/64, 6/128 |
+| Battery Capacity 	| 3300 mAh |
+
+## Xiaomi Redmi K20 Pro
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
+
+Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. Avoid this phone for now until more reviews are released.
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $400 |
+| Release Date		| May 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.4" |
+| Chipset			| Snapdragon 855 |
+| ROM/RAM Sizes 	| 6/64, 6/128, 8/128, 8/256 |
+| Battery Capacity 	| 4000 mAh |
+
+
+## Xiaomi Mi Mix 3
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
+
+Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, and features a sliding selfie camera.
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $450 |
+| Release Date		| October 2018 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.4" |
+| Chipset			| Snapdragon 845 |
+| ROM/RAM Sizes 	| 6/128 |
+| Battery Capacity 	| 3200 mAh |
+
+## OnePlus 7
+<p style="text-align:center;"><img src="img/phones/oneplus_7.png"></p>
+
+| Specification 	| Value |
+|-------------------|-------|
+| Price 			| $460+ |
+| Release Date		| May 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.4" |
+| Chipset			| Snapdragon 855 |
+| ROM/RAM Sizes 	| 6/128, 8/256 |
+| Battery Capacity 	| 3700 mAh |
 
 
  
