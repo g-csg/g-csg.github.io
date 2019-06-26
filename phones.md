@@ -48,10 +48,10 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks and coupons
 - [CouponsFromChina Smartphones](https://couponsfromchina.com/2019/01/26/smartphones-deals-coupons-list-gearbest/) - A website listing Gearbest and Banggood coupons.
 
+** It is currently not possible to center the tables below, see https://stackoverflow.com/q/44172954 **
+
 ## Xiaomi Mi A2
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
-
-<p style="text-align:center;">
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -62,8 +62,6 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 | Chipset			| Snapdragon 660 |
 | ROM/RAM Sizes 	| 4/32, 4/64, 6/128 |
 | Battery Capacity 	| 3000 mAh |
-
-</p>
 
 A budget-ish smartphone, About a year old.
 
