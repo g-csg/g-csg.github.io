@@ -39,7 +39,7 @@ Mediatek is a Chinese semiconductor company that creates many SoCs (System on a 
 Custom roms and rooting are outside the scope of this guide, but they greatly extend the life of your device. Custom roms can get updates when official updates stop, allow for a large amount of system-level customization. If it were not for this, Mediatek would be far more popular than it currently is within the budget phone community.
 
 # About LeEco
-LeEco used to make budget and mid-range smartphones but as of mid-2017 they have left the smartphone market. This is most likely because in May 2017 the company began to succumb to financial issues and in July 2017, [LeEco's president fled China after Chinese legal courts froze his assets](https://www.google.com/search?hl=en&biw=1680&bih=950&tbm=nws&ei=lAwQXcL4FI6v5wLmpLGwCQ&q=Jia+Yueting+&oq=Jia+Yueting+&gs_l=psy-ab.3..33i299k1.416.416.0.690.1.1.0.0.0.0.106.106.0j1.1.0....0...1c.1.64.psy-ab..0.1.106....0.-XwanivCwaA. Their phones can be had for fairly cheap now but know that their latest phone(s) are from 2017.
+LeEco used to make budget and mid-range smartphones but as of mid-2017 they have left the smartphone market. This is most likely because in May 2017 the company began to succumb to financial issues and in July 2017, [LeEco's president fled China after Chinese legal courts froze his assets](https://tinyurl.com/yxvgvazf) Their phones can be had for fairly cheap now but know that their latest phone(s) are from 2017.
 
 # About Xiaomi
 Xiaomi is well known for their budget smartphones and are gaining more popularity as of recently for their "flagship killers." They are often compared to Apple and sometimes touted as the "Apple of China." They make more than just smartphones; including shoes, smart watches, smart vacuums, facemasks, backpacks, power banks, and hand tools. Most Xiaomi products are of high quality, with a few notable exceptions such as their very low-end phones and the Mediatek varients of some of their phones. I speculate that their popularity in the United States will increase further as they include better band support for their phones for USA carriers.
@@ -48,9 +48,10 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks and coupons
 - [CouponsFromChina Smartphones](https://couponsfromchina.com/2019/01/26/smartphones-deals-coupons-list-gearbest/) - A website listing Gearbest and Banggood coupons.
 
-
 ## Xiaomi Mi A2
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
+
+<p style="text-align:center;">
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -67,7 +68,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 A budget-ish smartphone, About a year old.
 
 ## Xiaomi Redmi Note 7
-<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -79,12 +80,10 @@ A budget-ish smartphone, About a year old.
 | ROM/RAM Sizes 	| 3/32, 4/64, 4/128 |
 | Battery Capacity 	| 4000 mAh |
 
-</p>
-
 The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>
 
 ## Xiaomi Pocophone F1
-<p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -96,12 +95,10 @@ The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most peo
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 4000 mAh |
 
-</p>
-
 Xiaomi's "flagship killer" from Summer 2018.
 
 ## Xiaomi Mi 9
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -113,12 +110,10 @@ Xiaomi's "flagship killer" from Summer 2018.
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 3300 mAh |
 
-</p>
-
 Part of Xiaomi's premium smartphone line(s).
 
 ## Xiaomi Redmi K20 Pro
-<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -130,12 +125,10 @@ Part of Xiaomi's premium smartphone line(s).
 | ROM/RAM Sizes 	| 6/64, 6/128, 8/128, 8/256 |
 | Battery Capacity 	| 4000 mAh |
 
-</p>
-
 Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. Avoid this phone for now until more reviews are released.
 
 ## Xiaomi Mi Mix 3
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png">
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -147,12 +140,10 @@ Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for
 | ROM/RAM Sizes 	| 6/128 |
 | Battery Capacity 	| 3200 mAh |
 
-</p>
-
 Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, and features a sliding selfie camera.
 
 ## OnePlus 7
-<p style="text-align:center;"><img src="img/phones/oneplus_7.png">
+<p style="text-align:center;"><img src="img/phones/oneplus_7.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -163,5 +154,3 @@ Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, an
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/128, 8/256 |
 | Battery Capacity 	| 3700 mAh |
-
-</p>
