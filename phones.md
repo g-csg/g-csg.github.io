@@ -51,7 +51,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 ---
 <p style="text-align:center;">**It is currently not possible to center the tables below, see [this stackoverflow post](https://stackoverflow.com/q/44172954)**</p>
 
-## Xiaomi Mi A2
+## [Xiaomi Mi A2](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-a2)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_a2.png"></p>
 
 | Specification 	| Value |
@@ -63,10 +63,25 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 | Chipset			| Snapdragon 660 |
 | ROM/RAM Sizes 	| 4/32, 4/64, 6/128 |
 | Battery Capacity 	| 3000 mAh |
+| 3.5mm Jack? 		| No |
+| SD Card Slot? 	| No |
 
-A budget-ish smartphone, About a year old.
+**Pros:**
+Stock Android with no Chinese software bloat.
+Good chipset, especially at this price
+IR Blaster
+Decent camera
 
-## Xiaomi Redmi Note 7
+**Cons:**
+Lacks a 3.5mm jack
+Lacks MicroSD slot
+Ugly "iPhone X"-esque rear camera hump, but worse, can be saved using a case.
+
+**Reviews:**
+[TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
+
+
+## [Xiaomi Redmi Note 7](https://www.kimovil.com/en/where-to-buy-xiaomi-redmi-note-7-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png"></p>
 
 | Specification 	| Value |
@@ -78,10 +93,25 @@ A budget-ish smartphone, About a year old.
 | Chipset			| Snapdragon 660 |
 | ROM/RAM Sizes 	| 3/32, 4/64, 4/128 |
 | Battery Capacity 	| 4000 mAh |
+| 3.5mm Jack? 		| Yes |
+| SD Card Slot? 	| Yes |
 
-The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most people get these.<sup>[citation needed]</sup>
+**Make sure to buy the global varient of this phone!**
 
-## Xiaomi Pocophone F1
+**Pros:**
+Good chipset, especially at this price
+Long battery life
+FM Radio
+IR Blaster
+
+**Cons:**
+Chinese bloatware (can be solved with root)
+Poor camera (not true 48 MP, downsamples to 12 MP)
+
+**Reviews:**
+[TechTablets](https://www.youtube.com/watch?v=WlHviu7YaNY)
+
+## [Xiaomi Pocophone F1](https://www.kimovil.com/en/where-to-buy-xiaomi-pocophone-f1)
 <p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png"></p>
 
 | Specification 	| Value |
@@ -93,10 +123,16 @@ The Redmi Note line is Xiaomi's most popular bang-for-buck smartphones. Most peo
 | Chipset			| Snapdragon 845 |
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 4000 mAh |
+| 3.5mm Jack? 		| Yes |
+| SD Card Slot? 	| Yes |
 
-Xiaomi's "flagship killer" from Summer 2018.
+**Pros:**
+todo
 
-## Xiaomi Mi 9
+**Cons:**
+todo
+
+## [Xiaomi Mi 9](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-9-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
 
 | Specification 	| Value |
@@ -108,10 +144,16 @@ Xiaomi's "flagship killer" from Summer 2018.
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/64, 6/128 |
 | Battery Capacity 	| 3300 mAh |
+| 3.5mm Jack? 		| No |
+| SD Card Slot? 	| No |
 
-Part of Xiaomi's premium smartphone line(s).
+**Pros:**
+todo
 
-## Xiaomi Redmi K20 Pro
+**Cons:**
+todo
+
+## [Xiaomi Redmi K20 Pro](https://www.kimovil.com/en/where-to-buy-redmi-855)
 <p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
 
 | Specification 	| Value |
@@ -123,10 +165,18 @@ Part of Xiaomi's premium smartphone line(s).
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/64, 6/128, 8/128, 8/256 |
 | Battery Capacity 	| 4000 mAh |
+| 3.5mm Jack? 		| Yes |
+| SD Card Slot? 	| No |
 
-Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. Avoid this phone for now until more reviews are released.
+Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. **Avoid this phone for now** until more reviews are released.
 
-## Xiaomi Mi Mix 3
+**Pros:**
+TBA
+
+**Cons:**
+TBA
+
+## [Xiaomi Mi Mix 3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-mix-3-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
 
 | Specification 	| Value |
@@ -138,18 +188,35 @@ Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for
 | Chipset			| Snapdragon 845 |
 | ROM/RAM Sizes 	| 6/128 |
 | Battery Capacity 	| 3200 mAh |
+| 3.5mm Jack? 		| No |
+| SD Card Slot? 	| No |
 
 Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, and features a sliding selfie camera.
 
-## OnePlus 7
+**Pros:**
+todo
+
+**Cons:**
+todo
+
+
+## [OnePlus 7](https://www.kimovil.com/en/where-to-buy-oneplus-7)
 <p style="text-align:center;"><img src="img/phones/oneplus_7.png"></p>
 
 | Specification 	| Value |
 |-------------------|------:|
-| Price 			| $460+ |
+| Price 			| $600+ |
 | Release Date		| May 2019 |
 | Aspect Ratio		| 19.5:9 |
 | Screen Size		| 6.4" |
 | Chipset			| Snapdragon 855 |
 | ROM/RAM Sizes 	| 6/128, 8/256 |
 | Battery Capacity 	| 3700 mAh |
+| 3.5mm Jack? 		| No |
+| SD Card Slot? 	| No |
+
+**Pros:**
+todo
+
+**Cons:**
+todo
