@@ -6,6 +6,7 @@
 3. [About LeEco](#about-leeco)
 4. [About Xiaomi](#about-xiaomi)
 5. [Additional Resources](#additional-resources)
+6. [Notes for Contributors](#notes-for-contributors)
 
 # Table of Products
 1. [Xiaomi Mi A2](#xiaomi-mi-a2) ($150)
@@ -220,3 +221,8 @@ Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, an
 
 **Cons:**
 - todo
+
+## Notes for Contributors
+
+- Images are 600 pixels wide, using the "front and back" phone image
+- Add *good* reviews
