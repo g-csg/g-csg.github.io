@@ -1,30 +1,72 @@
-## Audio Sources
+# Audio Sources
 
-| Digital-to-Audio Convertors (or DACs)  | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Apple USB-C to 3.5mm Dongle | Price1 USD | Notes 1 | Image 1 |
-| Tempotec Sonata HD | Price1 USD | Notes 1 | Image 1 |
-| XtremPro X1 | Price1 USD | Notes 1 | Image 1 |
+# Table of Contents
+1. [Digital-to-Audio Convertors (DACs)](#digital-to-audio-convertors-(dacs))
+2. [Lavalier Microphones](#lavalier-microphones)
+3. [Desktop Microphones](#desktop-microphones)
+4. [Audio Interfaces](#audio-interfaces)
 
-## Microphones
+# Digital-to-Audio Convertors (DACs)
+1. [Apple USB-C Dongle](#apple-usb-c-dongle) ($a)
+2. [Tempotec Sonata HD](#tempotec-sonata-hd) ($a)
+3. [XtremPro X1](#xtrempro-x1) ($a)
 
-| Lavalier Microphones | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Lavalier Microphone | 1 | Notes 1 | Image 1 |
-| Boya BY-M1 | Price1 USD | Notes 1 | Image 1 |
-| Sony ECMCS33 | Price1 USD | Notes 1 | Image 1 |
+# Apple USB-C Dongle
+TODO
 
-| 'Desktop' Microphones | Price (USD) | Notes | Image |
-|-|-|-|-|
-| BM800 or BM700 | 1 | Notes 1 | Image 1 |
-| Samson Go | Price1 USD | Notes 1 | Image 1 |
-| Behringer Ultravoice Xm8500 | Price1 USD | Notes 1 | Image 1 |
-| Neewer NW-3U | Price1 USD | Notes 1 | Image 1 |
-| Nady CM90  | Price1 USD | Notes 1 | Image 1 |
+# Tempotec Sonata HD
+TODO
 
-| Audio Interfaces | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Sabrent USB Sound Card | 1 | Notes 1 | Image 1 |
-| BEHRINGER UM2 | Price1 USD | Notes 1 | Image 1 |
-| Behringer Ultravoice Xm8500 | Price1 USD | Notes 1 | Image 1 |
-| Focusrite Scarlett Solo | Price1 USD | Notes 1 | Image 1 |
+# XtremPro X1
+TODO
+
+# Lavalier Microphones
+1. [Generic Lavalier Microphone](#generic-lavalier-microphone) ($a)
+2. [Boya BY-M1](#boya-by-m1) ($a)
+3. [Sony ECMCS33](#sony-ecmcs33) ($a)
+
+# Generic Lavalier Microphone
+TODO
+
+# Boya BY-M1
+TODO
+
+# Sony ECMCS33
+TODO
+
+# Desktop Microphones
+1. [BM800](#bm800) ($10)
+2. [Behringer Ultravoice Xm8500](#behringer-ultravoice-xm8500) ($20-$30)
+3. [Neewer NW-3U](#neewer-nw-3u) ($27)
+4. [Samson Go](#samson-go) ($35-$40)
+5. [Nady CM90](#nady-cm90) ($40-$60)
+
+# BM800
+TODO
+
+# Behringer Ultravoice Xm8500
+TODO
+
+# Neewer NW-3U
+TODO
+
+# Samson Go
+TODO
+
+# Nady CM90
+TODO
+
+# Audio Interfaces
+1. [Sabrent USB Sound Card](#sabrent-usb-sound-card) ($10)
+2. [BEHRINGER UM2](#behringer-um2) ($30-$40)
+3. [Focusrite Scarlett Solo](#focusrite-scarlett-solo) ($80-$110)
+
+# Sabrent USB Sound Card
+TODO
+
+# BEHRINGER UM2
+TODO
+
+# Focusrite Scarlett Solo
+TODO
+
