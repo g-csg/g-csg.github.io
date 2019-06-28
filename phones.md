@@ -75,7 +75,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 **Cons:**
 - Lacks a 3.5mm jack
 - Lacks MicroSD slot
-- Ugly "iPhone X"-esque rear camera hump, but worse, can be saved using a case.
+- Ugly "iPhone X"-esque rear camera hump, but worse. Can probably be saved using a case.
 
 **Reviews:**
 - [TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
