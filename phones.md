@@ -67,18 +67,18 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 | SD Card Slot? 	| No |
 
 **Pros:**
-Stock Android with no Chinese software bloat.
-Good chipset, especially at this price
-IR Blaster
-Decent camera
+- Stock Android with no Chinese software bloat.
+- Good chipset, especially at this price
+- IR Blaster
+- Decent camera
 
 **Cons:**
-Lacks a 3.5mm jack
-Lacks MicroSD slot
-Ugly "iPhone X"-esque rear camera hump, but worse, can be saved using a case.
+- Lacks a 3.5mm jack
+- Lacks MicroSD slot
+- Ugly "iPhone X"-esque rear camera hump, but worse, can be saved using a case.
 
 **Reviews:**
-[TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
+- [TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
 
 
 ## [Xiaomi Redmi Note 7](https://www.kimovil.com/en/where-to-buy-xiaomi-redmi-note-7-global)
@@ -99,17 +99,17 @@ Ugly "iPhone X"-esque rear camera hump, but worse, can be saved using a case.
 **Make sure to buy the global varient of this phone!**
 
 **Pros:**
-Good chipset, especially at this price
-Long battery life
-FM Radio
-IR Blaster
+- Good chipset, especially at this price
+- Long battery life
+- FM Radio
+- IR Blaster
 
 **Cons:**
-Chinese bloatware (can be solved with root)
-Poor camera (not true 48 MP, downsamples to 12 MP)
+- Chinese bloatware (can be solved with root)
+- Poor camera (not true 48 MP, downsamples to 12 MP)
 
 **Reviews:**
-[TechTablets](https://www.youtube.com/watch?v=WlHviu7YaNY)
+- [TechTablets](https://www.youtube.com/watch?v=WlHviu7YaNY)
 
 ## [Xiaomi Pocophone F1](https://www.kimovil.com/en/where-to-buy-xiaomi-pocophone-f1)
 <p style="text-align:center;"><img src="img/phones/xiaomi_pocophone_f1.png"></p>
@@ -127,10 +127,10 @@ Poor camera (not true 48 MP, downsamples to 12 MP)
 | SD Card Slot? 	| Yes |
 
 **Pros:**
-todo
+- todo
 
 **Cons:**
-todo
+- todo
 
 ## [Xiaomi Mi 9](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-9-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
@@ -148,10 +148,10 @@ todo
 | SD Card Slot? 	| No |
 
 **Pros:**
-todo
+- todo
 
 **Cons:**
-todo
+- todo
 
 ## [Xiaomi Redmi K20 Pro](https://www.kimovil.com/en/where-to-buy-redmi-855)
 <p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
@@ -171,10 +171,10 @@ todo
 Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. **Avoid this phone for now** until more reviews are released.
 
 **Pros:**
-TBA
+- TBA
 
 **Cons:**
-TBA
+- TBA
 
 ## [Xiaomi Mi Mix 3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-mix-3-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
@@ -194,10 +194,10 @@ TBA
 Part of Xiaomi's premium smartphone line(s). A slight side-grade to the Mi 9, and features a sliding selfie camera.
 
 **Pros:**
-todo
+- todo
 
 **Cons:**
-todo
+- todo
 
 
 ## [OnePlus 7](https://www.kimovil.com/en/where-to-buy-oneplus-7)
@@ -216,7 +216,7 @@ todo
 | SD Card Slot? 	| No |
 
 **Pros:**
-todo
+- todo
 
 **Cons:**
-todo
+- todo
