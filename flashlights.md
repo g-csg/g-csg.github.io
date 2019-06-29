@@ -1,8 +1,6 @@
 # Flashlights
 
-Alternatively, check out [this list](https://www.reddit.com/r/flashlight/comments/c3f10u/arbitrary_list_of_popular_lights_summer_solstice/) on the Flashlights Reddit commmunity.
-
-# Table of Contents (Sorted by Battery Size, from smallest to largest)
+# Table of Contents
 1. [Terminology](#terminology)
 2. [Battery Sizes](#battery-sizes)
 3. [Battery Models](#battery-models)
@@ -11,9 +9,11 @@ Alternatively, check out [this list](https://www.reddit.com/r/flashlight/comment
 6. [10440 and 14500](#10440-and-14500)
 7. [18650](#18650)
 8. [18650 and 26650](#18650-and-26650)
+9. [Headlamps](#headlamps)
+10. [Additional Resources](#additional-resources)
 
 # Terminology
-Mostly taken from [Flashlight Wiki](https://flashlightwiki.com/Terminology), other sources are permalinked. This is not an exhaustive list.
+Mostly taken from [Flashlight Wiki](https://flashlightwiki.com/Terminology), other sources are hyperlinked. This is not an exhaustive list.
 - Die: The part of the LED that actually produces light. It is usually yellow and protected by a clear dome.
 - [Dome](budgetlightforum.com/node/15818): A clear plastic or silicone hemisphere placed over the LED or die with the purpose of increasing the amount of light emitted.
 - [Driver](https://www.candlepowerforums.com/vb/showthread.php?247543&p=3148200#post3148200): The electronics between the battery and the LED. Drivers regulate voltage to the LED and provide various light intensity modes and memory functions.
@@ -43,7 +43,7 @@ The larger rechargeable cells are typically assigned five-digit numbers, where t
 - 10440 = AAA
 - 14500 = AA
 - 16340 = CR123
-- 18650 = Probably the most popular size, larger than AA
+- 18650 = Probably the most popular size for enthusiast flashlights. Larger than AA
 - 21700 
 - 25500 = C Cell
 - 26650 
@@ -60,8 +60,8 @@ TODO: Liitokala and Nitecore
 These flashlights are strictly keychain-size form factor. Although arguably, some [10440 and 14500 flashlights](#10440-and-14500) may pass for being either EDC or keychain-sized.
 
 1. [Nitecore TUBE](#nitecore-tube) ($5)
-2. [Nitecore TINI](#nitecore-tini)
-3. [Astrolux K1](#astrolux-k1) ($25)
+2. [Astrolux K1](#astrolux-k1) ($25)
+3. [Nitecore TINI](#nitecore-tini) ($32)
 4. [Nitecore TUP](#nitecore-tup) ($40)
 5. [RovyVon Aurora A8](#rovyvon-aurora-a8) ($47)
 6. [Acebeam UC15](#acebeam-uc15) ($50)
@@ -69,10 +69,10 @@ These flashlights are strictly keychain-size form factor. Although arguably, som
 ## Nitecore TUBE
 TODO
 
-# Nitecore TINI
+## Astrolux K1
 TODO
 
-## Astrolux K1
+# Nitecore TINI
 TODO
 
 ## Nitecore TUP
@@ -138,13 +138,14 @@ TODO: Cut down this list
 
 1. [Convoy C8](#convoy-c8) ($14-$19)
 2. [Convoy S11](#convoy-s11) ($20)
-3. [Astrolux FT03](#astrolux-ft03) (#30
+3. [Astrolux FT03](#astrolux-ft03) ($30)
 4. [BLF Q8](#blf-q8) ($45)
 5. [Emisar D4S](#emisar-d4s) ($48)
 6. [Sofirn SP36 BLF](#sofirn-sp36-blf) ($50)
-7. [Sofirn SP70](#Sofirn-SP70) ($55)
-8. [MHVAST TS70](#mhvast-ts70) ($90)
-5. [Emisar D18](#emisar-d18) ($100)
+7. [Convoy L6](#convoy-l6) ($50)
+8. [Sofirn SP70](#Sofirn-SP70) ($55)
+9. [MHVAST TS70](#mhvast-ts70) ($90)
+10. [Emisar D18](#emisar-d18) ($100)
 
 ## Convoy C8
 TODO
@@ -156,48 +157,57 @@ A Convoy S2, in 26650 size.
 TODO
 
 ## BLF Q8
-A "Soda-can" light designed by enthusiasts. Also known as the BLF
+A "Soda-can" light designed by enthusiasts. Also known as the Sofirn Q8.
 
 ## Emisar D4S
 A larger varient of the Emisar D4
 
 ## Sofirn SP36 BLF
-An upgraded varient of the BLF Q8, with USB-C and better LEDs.
+An upgraded varient of the BLF Q8, with USB-C and better emitters.
 
-| Large Flashlights | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Convoy C8/C8+ or Sofirn C8/C8T | Price1 USD | Notes 1 | Image 1 |
-| Convoy L6 or L2 | Price2 USD | Notes 2 | Image 2 |
-| Convoy S11 (not released yet) | Price3 USD | Notes 3 | Image 3 |
-| BLF Q8 OR Sofirn Q8 OR Sofirn BLF SP36 "Q8 Mini" | Price1 USD | Notes 1 | Image 1 |
-| Emisar D4S | Price2 USD | Notes 2 | Image 2 |
-| Emisar D18 | Price3 USD | Notes 3 | Image 3 |
-| Sofirn SP70 | Price1 USD | Notes 1 | Image 1 |
-| MHVAST TS70 OR Astrolux FT03  | Price2 USD | Notes 2 | Image 2 |
-| Wuben T70 | Price3 USD | Notes 3 | Image 3 |
-| Sofirn SF11 OR SF34 | Price1 USD | Notes 1 | Image 1 |
+## Convoy L6
+TODO
 
-| Headlamps | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Tank007 KC70 | Price1 USD | Notes 1 | Image 1 |
-| Rofis R2 | Price2 USD | Notes 2 | Image 2 |
-| Convoy H1 | Price3 USD | Notes 3 | Image 3 |
-| Skilhunt H03 | Price3 USD | Notes 3 | Image 3 |
-| Eagle Eye X1R | Price3 USD | Notes 3 | Image 3 |
+## Sofirn SP70
+TODO
 
-| Battery Chargers | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Product 1 | Price1 USD | Notes 1 | Image 1 |
-| Product 2 | Price2 USD | Notes 2 | Image 2 |
-| Product 3 | Price3 USD | Notes 3 | Image 3 |
+## MVHAST TS70
+TODO
 
-Additional Resources:
- - [BudgetLightForum](http://budgetlightforum.com) - A forum focused on budget flashlights, perhaps the most active flashlight forum currently. 
- - [Candle Power Forums](https://www.candlepowerforums.com) - A forum focused on flashlights
+## Emisar D18
+A multi-LED monster.
+
+# Headlamps
+
+1. [Eagle Eye X1R](#eagle-eye-x1r) ($16)
+2. [Convoy H1](#convoy-h1) ($27)
+3. [Utorch H09](#utorch-h09) ($30)
+4. [Skilhunt H03](#skilhunt-h03) ($30)
+5. [Rofis R2](#rofis-r2) ($35-$45)
+
+## Eagle Eye X1R
+A budget headlamp.
+
+## Convoy H1
+TODO
+
+## Utorch H09
+A headlamp with magnetic rotating recharge contact pads(???)
+
+## Skilhunt H03
+TODO
+
+## Rofis R2
+TODO
+
+# Additional Resources
+- [BudgetLightForum](http://budgetlightforum.com) - A forum focused on budget flashlights, perhaps the most active flashlight forum currently. 
+- [Candle Power Forums](https://www.candlepowerforums.com) - A forum focused on flashlights
+- [A similar list of recommended flashlights](https://www.reddit.com/r/flashlight/comments/c3f10u/arbitrary_list_of_popular_lights_summer_solstice/)
 
 Stores:
- - [Neals Gadgets](https://www.nealsgadgets.com)
- - [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416) - Ran by Simon, who I assume is the sales rep for Convoy
- - [Sofirn Official Store on Aliexpress](https://www.aliexpress.com/store/2933049)
- - [Lumintop Official Store on Aliexpress](https://lumintop.aliexpress.com/store/2529001)
- - [LiitoKala Official Store on Aliexpress](https://liitokalahongkong.aliexpress.com/store/217753)
+- [Neals Gadgets](https://www.nealsgadgets.com)
+- [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416) - Ran by Simon, who I assume is the sales rep for Convoy
+- [Sofirn Official Store on Aliexpress](https://www.aliexpress.com/store/2933049)
+- [Lumintop Official Store on Aliexpress](https://lumintop.aliexpress.com/store/2529001)
+- [LiitoKala Official Store on Aliexpress](https://liitokalahongkong.aliexpress.com/store/217753)
