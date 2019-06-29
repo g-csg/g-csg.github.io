@@ -11,13 +11,13 @@
 2. [Tempotec Sonata HD](#tempotec-sonata-hd) ($a)
 3. [XtremPro X1](#xtrempro-x1) ($a)
 
-# Apple USB-C Dongle
+## Apple USB-C Dongle
 TODO
 
-# Tempotec Sonata HD
+## Tempotec Sonata HD
 TODO
 
-# XtremPro X1
+## XtremPro X1
 TODO
 
 # Lavalier Microphones
@@ -25,13 +25,13 @@ TODO
 2. [Boya BY-M1](#boya-by-m1) ($a)
 3. [Sony ECMCS33](#sony-ecmcs33) ($a)
 
-# Generic Lavalier Microphone
+## Generic Lavalier Microphone
 TODO
 
-# Boya BY-M1
+## Boya BY-M1
 TODO
 
-# Sony ECMCS33
+## Sony ECMCS33
 TODO
 
 # Desktop Microphones
@@ -41,19 +41,19 @@ TODO
 4. [Samson Go](#samson-go) ($35-$40)
 5. [Nady CM90](#nady-cm90) ($40-$60)
 
-# BM800
+## BM800
 TODO
 
-# Behringer Ultravoice Xm8500
+## Behringer Ultravoice Xm8500
 TODO
 
-# Neewer NW-3U
+## Neewer NW-3U
 TODO
 
-# Samson Go
+## Samson Go
 TODO
 
-# Nady CM90
+## Nady CM90
 TODO
 
 # Audio Interfaces
@@ -61,12 +61,12 @@ TODO
 2. [BEHRINGER UM2](#behringer-um2) ($30-$40)
 3. [Focusrite Scarlett Solo](#focusrite-scarlett-solo) ($80-$110)
 
-# Sabrent USB Sound Card
+## Sabrent USB Sound Card
 TODO
 
-# BEHRINGER UM2
+## BEHRINGER UM2
 TODO
 
-# Focusrite Scarlett Solo
+## Focusrite Scarlett Solo
 TODO
 

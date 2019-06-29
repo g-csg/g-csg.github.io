@@ -1,6 +1,6 @@
 # Phones
 
-# Table of Contents
+# Table of Contents, Information
 1. [Before You Buy](#before-you-buy)
 2. [About Mediatek](#about-mediatek)
 3. [About LeEco](#about-leeco)
@@ -8,7 +8,7 @@
 5. [Additional Resources](#additional-resources)
 6. [Notes for Contributors](#notes-for-contributors)
 
-# Table of Products
+# Table of Contents, Products
 1. [Xiaomi Mi A2](#xiaomi-mi-a2) ($150)
 2. [Xiaomi Redmi Note 7](#xiaomi-redmi-note-7) ($180)
 3. [Xiaomi Pocophone F1](#xiaomi-pocophone-f1) ($280)

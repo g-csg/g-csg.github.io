@@ -1,29 +1,80 @@
-## Flashlights
+# Flashlights
 
-| Sub-AAA Sized (TODO: Cut down this list) | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Nitecore TUBE | Price1 USD | Notes 1 | Image 1 |
-| Nitecore TIP | Price2 USD | Notes 2 | Image 2 |
-| Nitecore TIP2 | Price3 USD | Notes 3 | Image 3 |
-| Nitecore TUP | Price3 USD | Notes 3 | Image 3 |
-| Acebeam UC15 | Price3 USD | Notes 3 | Image 3 |
-| RovyVon Aurora A8 | Price3 USD | Notes 3 | Image 3 |
-| Astrolux K1 | Price3 USD | Notes 3 | Image 3 |
-| Rofis TC1 | Price3 USD | Notes 3 | Image 3 |
-| Lumintop Geek  | Price3 USD | Notes 3 | Image 3 |
-| Nitecore TINI SS | Price3 USD | Notes 3 | Image 3 |
+# Table of Contents (Sorted by Battery Size, from smallest to largest)
+1. [Battery Sizes](#battery-sizes)
+2. [Battery Models](#battery-models)
+3. [Battery Chargers](#battery-chargers)
+4. [Sub-10440](#sub-10440)
+5. [10440 and 14500](#10440-and-14500)
+6. [18650](#18650)
+7. [26650](#26650)
 
-| 1\*AA or 1\*AAA | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Sofirn C01S | Price1 USD | Notes 1 | Image 1 |
-| Sofirn SF10 | Price2 USD | Notes 2 | Image 2 |
-| Sofirn SF14 | Price3 USD | Notes 3 | Image 3 |
-| Sofirn SP10A | Price1 USD | Notes 1 | Image 1 |
-| Convoy T2 | Price2 USD | AA varient of S2+ | Image 2 |
-| Lumintop Tool AA | Price3 USD | Notes 3 | Image 3 |
-| Wuben E05 | Price1 USD | Notes 1 | Image 1 |
-| Klaurus Mi7 | Price2 USD | Notes 2 | Image 2 |
-| Klarus XT1A | Price3 USD | Notes 3 | Image 3 |
+# Battery Sizes
+
+For reference, popular [battery sizes](https://en.wikipedia.org/wiki/List_of_battery_sizes#Lithium-ion_batteries_(rechargeable)) for flashlights are shown below. <br>
+<br>
+The naming scheme is as follows (taken from Wikipedia):
+<blockquote>
+The larger rechargeable cells are typically assigned five-digit numbers, where the first two digits are the (approximate) diameter in millimeters, followed by the last three digits indicating the (approximate) height in tenths of millimeters. 
+</blockquote>
+
+- 10440 = AAA
+- 14500 = AA
+- 16340 = CR123
+- 18650 = Probably the most popular size, larger than AA
+- 21700 
+- 25500 = C Cell
+- 26650 
+- 32650 = Larger than a D Cell
+
+# Battery Models
+TODO: list models like VT6 and samsung etc, ignore housefire(tm) batteries
+
+# Battery Chargers
+TODO: Liitokala and Nitecore
+
+# Sub-10440
+
+These flashlights are strictly keychain-size form factor. Although arguably, some [10440 and 14500 flashlights](#10440-and-14500) may pass for being either EDC or keychain-sized.
+
+1. [Nitecore TUBE](#nitecore-tube) ($5)
+2. [Nitecore TINI](#nitecore-tini)
+3. [Astrolux K1](#astrolux-k1) ($25)
+4. [Nitecore TUP](#nitecore-tup) ($40)
+5. [RovyVon Aurora A8](#rovyvon-aurora-a8) ($47)
+6. [Acebeam UC15](#acebeam-uc15) ($50)
+
+## Nitecore TUBE
+TODO
+
+# Nitecore TINI
+TODO
+
+## Astrolux K1
+TODO
+
+## Nitecore TUP
+TODO
+
+## RovyVon Aurora A8
+TODO
+
+## Acebeam UC15
+TODO
+
+# 10440 and 14500
+
+<TODO: Cut down this list, clarify distinction between sofirn models>
+
+1. Sofirn C01S
+2. Sofirn SF10
+3. Sofirn SF14
+4. Sofirn SP10A
+5. Convoy T2
+6. Lumintop Tool AA
+7. Wuben E05
+
+# 18650
 
 | 1\*18650 | Price (USD) | Notes | Image |
 |-|-|-|-|
