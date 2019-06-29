@@ -86,7 +86,7 @@ TODO
 
 # 10440 and 14500
 
-<TODO: Cut down sofirn models>
+TODO: Cut down sofirn models
 
 1. [Sofirn C01S]
 2. [Sofirn SF10]
@@ -207,7 +207,7 @@ TODO
 
 Stores:
 - [Neals Gadgets](https://www.nealsgadgets.com)
-- [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416) - Ran by Simon, who I assume is the sales rep for Convoy
+- [Convoy's store on Aliexpress](https://convoy.aliexpress.com/store/330416)
 - [Sofirn Official Store on Aliexpress](https://www.aliexpress.com/store/2933049)
 - [Lumintop Official Store on Aliexpress](https://lumintop.aliexpress.com/store/2529001)
 - [LiitoKala Official Store on Aliexpress](https://liitokalahongkong.aliexpress.com/store/217753)
