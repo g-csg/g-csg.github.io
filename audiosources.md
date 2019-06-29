@@ -1,4 +1,4 @@
-# Audio Sources
+# Digital Audio Players, DACs and Amplifiers
 
 # Table of Contents
 1. [Digital-to-Audio Convertors (DACs)](#digital-to-audio-convertors-(dacs))
