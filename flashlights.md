@@ -24,13 +24,13 @@ Mostly taken from [Flashlight Wiki](https://flashlightwiki.com/Terminology), oth
 - Lumens: A measurement of light output.
 - PCB: **P**rinted **C**ircuit **B**oard. A circuit board with electronics soldered to it.
 - Pill: The housing for the driver the LED.
-- Orange Peel: Referring to the textured surface of a reflector used to smooth out beam perfections.
+- Orange Peel: Referring to the [textured surface of a reflector](https://www.google.com/search?tbm=isch&q=orange%20peel%20reflector) used to smooth out beam perfections.
 - O-Ring: A rubber ring placed alongside threads on the body of a flashlight to make the flashlight water and dust resistant.
 - PWM - **P**ulse **W**idth **M**odulation. A technique of varying the brightness of an LED by turning it on and off very quickly. Good implementations of PWM are unnoticable by eye, but bad PWM can produce strobing artifacts.
 - Ramping: A flashlight mode where the brightness gradually increases or decreases ("ramps" up or down), allowing for the user to select the exact brightness level desired.
 - [Reflector](https://www.energizer.com/about-flashlights/how-does-a-flashlight-work): A metallic 'bowl' that rests around the emitter that redirects light rays to allow for more light to be reflected forward. Typically a chromed reflector is used, but cheaper flashlights [with copper-colored "reflectors"](http://budgetlightforum.com/comment/1454411#comment-1454411) serve to do the exact opposite, to prevent light not coming directly from the LED to be emitted out the front of the light.
 - Throw: The ability of a flashlight to place light far away, often described as either "flood"-y or "throw"-y, where "throw" or "thrower" refers to light that has a narrow pattern, but high intensity and range (distance).
-- UI - **U**ser **I**nterface. The specific combition and order of button presses required to operate the various modes of a flashlight. A popular UI for enthusiast flashlights is [Andúril](img/flashlights/anduril_ui.png), but there are others, such as [A6, Biscotti, Bistro, and more.]((http://budgetlightforum.com/node/67518))
+- UI - **U**ser **I**nterface. The specific combition and order of button presses required to operate the various modes of a flashlight. A popular UI for enthusiast flashlights is [Andúril](img/flashlights/anduril_ui.png), but there are others, such as [A6, Biscotti, Bistro, and more.](http://budgetlightforum.com/node/67518)
 
 # Battery Sizes
 For reference, popular [battery sizes](https://en.wikipedia.org/wiki/List_of_battery_sizes#Lithium-ion_batteries_(rechargeable)) for flashlights are shown below. <br>
@@ -57,7 +57,7 @@ TODO: Liitokala and Nitecore
 
 # Sub-10440
 
-These flashlights are strictly keychain-size form factor. Although arguably, some [10440 and 14500 flashlights](#10440-and-14500) may pass for being either EDC or keychain-sized.
+These flashlights are strictly keychain-size form factor. Some [10440 and 14500 flashlights](#10440-and-14500) may pass for being keychain-sized.
 
 1. [Nitecore TUBE](#nitecore-tube) ($5)
 2. [Astrolux K1](#astrolux-k1) ($25)
@@ -92,9 +92,9 @@ TODO: Cut down sofirn models
 2. [Sofirn SF10]
 3. [Sofirn SF14]
 4. [Sofirn SP10A]
-5. [Convoy T2](#Convoy-T2)
-6. [Lumintop Tool AA](#Lumintop-Tool-AA)
-7. [Wuben E05](#Wuben-E05)
+5. [Convoy T2](#convoy-t2)
+6. [Lumintop Tool AA](#lumintop-tool-aa)
+7. [Wuben E05](#wuben-e05)
 
 ## Convoy T2
 TODO
