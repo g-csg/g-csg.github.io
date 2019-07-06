@@ -72,7 +72,7 @@ TODO
 ## Astrolux K1
 TODO
 
-# Nitecore TINI
+## Nitecore TINI
 TODO
 
 ## Nitecore TUP
