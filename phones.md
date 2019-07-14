@@ -159,7 +159,7 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 
 | Specification 	| Value |
 |-------------------|------:|
-| Price 			| $400 |
+| Price 			| $360 |
 | Release Date		| May 2019 |
 | Aspect Ratio		| 19.5:9 |
 | Screen Size		| 6.4" |
@@ -169,13 +169,24 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 | 3.5mm Jack? 		| Yes |
 | SD Card Slot? 	| No |
 
-Also known as Xiaomi Mi 9T in Europe, this is Xiaomi's new "flagship killer" for Summer 2019. **Avoid this phone for now** until more reviews are released.
+**Avoid this phone for now** until more reviews are released.
+
+Most likely will be released as the Mi 9T Pro. 
 
 **Pros:**
-- TBA
+- Samsung AMOLED screen
+- Above average camera
+- Adequate cooling 
+- Flagship chipset
+- Good battery life
+- Best value phone right now
+
 
 **Cons:**
-- TBA
+- MIUI can be bloated
+- Auto-brightness is meh
+- Missing some LTE bands
+- Not available globally (for the moment) 
 
 ## [Xiaomi Mi Mix 3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-mix-3-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
