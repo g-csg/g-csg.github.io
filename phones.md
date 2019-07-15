@@ -5,17 +5,20 @@
 2. [About Mediatek](#about-mediatek)
 3. [About LeEco](#about-leeco)
 4. [About Xiaomi](#about-xiaomi)
-5. [Additional Resources](#additional-resources)
-6. [Notes for Contributors](#notes-for-contributors)
+5. [About Global vs Chinese](#about-global-vs-chinese)
+6. [Additional Resources](#additional-resources)
+7. [Notes for Contributors](#notes-for-contributors)
 
 # Table of Contents, Products
 1. [Xiaomi Mi A2](#xiaomi-mi-a2) ($150)
-2. [Xiaomi Redmi Note 7](#xiaomi-redmi-note-7) ($180)
-3. [Xiaomi Pocophone F1](#xiaomi-pocophone-f1) ($280)
-4. [Xiaomi Mi 9](#xiaomi-mi-9) ($400-$500)
-5. [Xiaomi Redmi K20 Pro](#xiaomi-redmi-k20-pro) ($400)
-6. [Xiaomi Mi Mix 3](#xiaomi-mi-mix-3) ($500+)
-7. [OnePlus 7](#oneplus-7) ($500-$700)
+2. [Xiaomi Mi A3](#xiaomi-mi-a3) (?)
+3. [Xiaomi Redmi Note 7](#xiaomi-redmi-note-7) ($180)
+4. [Xiaomi Pocophone F1](#xiaomi-pocophone-f1) ($280)
+5. [Xiaomi Mi 9](#xiaomi-mi-9) ($400-$500)
+6. [Xiaomi Mi 9 SE](#xiaomi-mi-9-se) ($300-400)
+8. [Xiaomi Redmi K20 Pro](#xiaomi-redmi-k20-pro) ($400)
+9. [Xiaomi Mi Mix 3](#xiaomi-mi-mix-3) ($500+)
+10. [OnePlus 7](#oneplus-7) ($500-$700)
 
 # Before You Buy
 There are two main questions that must be considered with buying a phone from China:
@@ -26,9 +29,9 @@ Not all phones are compatible with all phone carriers (e.g. AT&T, T-Mobile, etc)
 
 Use services like [willmyphonework.net](https://willmyphonework.net/) and [frequencycheck.com](https://www.frequencycheck.com/) to check for band compatibility on phones.
 
-As for shipping, spending $10-$20 extra for insured shipping with tracking such as DHL or EMS is recommended, especially when expensive $100-$600 phones are being shipped overseas. 
+As for shipping, spending $10-$20 extra for insured shipping with tracking such as DHL or EMS is recommended, especially when expensive $100-$600 phones are being shipped overseas.
 
-If you live in the USA, you don't have to worry about being taxed for importing products overseas unless you're [importing over $800 of goods](https://www.export.gov/article?id=Duties-and-Taxes-eCommerce-Guide-2) For other places in the world, that number (referred to as *De Minimis Value*) is far lower, typically around [0-200 USD.](https://global-express.org/assets/files/Customs%20Committee/de-minimis/GEA%20overview%20on%20de%20minimis_28%20March%202018.pdf) It may be beneficial to message a seller to declare that the phone is a "$20 mp3 player" on the package in order to avoid paying taxes. 
+If you live in the USA, you don't have to worry about being taxed for importing products overseas unless you're [importing over $800 of goods](https://www.export.gov/article?id=Duties-and-Taxes-eCommerce-Guide-2) For other places in the world, that number (referred to as *De Minimis Value*) is far lower, typically around [0-200 USD.](https://global-express.org/assets/files/Customs%20Committee/de-minimis/GEA%20overview%20on%20de%20minimis_28%20March%202018.pdf) It may be beneficial to message a seller to declare that the phone is a "$20 mp3 player" on the package in order to avoid paying taxes.
 
 On an unrelated note: If you live in the USA you *may* have issues with [importing products with a price above $130](https://www.reddit.com/r/RepLadies/comments/bjoj4h/help_superbuy_parcel_value_declarations_to_us/), while legally you can go up to $800 without issue, take this in consideration.
 
@@ -44,6 +47,20 @@ LeEco used to make budget and mid-range smartphones but as of mid-2017 they have
 
 # About Xiaomi
 Xiaomi is well known for their budget smartphones and are gaining more popularity as of recently for their "flagship killers." They are often compared to Apple and sometimes touted as the "Apple of China." They make more than just smartphones; including shoes, smart watches, smart vacuums, facemasks, backpacks, power banks, and hand tools. Most Xiaomi products are of high quality, with a few notable exceptions such as their very low-end phones and the Mediatek varients of some of their phones. I speculate that their popularity in the United States will increase further as they include better band support for their phones for USA carriers.
+
+## About Global vs Chinese
+Xiaomi notably has a distinction of rolling out it's phones to Chinese and sometimes Indian markets first, and to Rest of World second (Europe, America, etc). A significant distinction will be:
+1. The LTE bands used in a Chinese phone to a Global one.
+2. A Chinese version of MIUI (Xiaomi's ROM) flashed over a Global one.
+
+Chinese devices will definitely lack Band 20 which is used in a lot of Western European countries, Global devices will lack Chinese bands.
+You will most likely want to buy the Global version over the Chinese version unless you live in China. As said before, check Kimovil's frequency checker to your country between versions and make the
+best decision.
+
+The Chinese MIUI will most likely have some bloatware or popular Chinese apps that can usually be easily removed. Take note that you can also flash Global MIUI over a Chinese device,
+(which is something resellers will do on Chinese phones), but be aware when buying and check if you still have Band 20.
+
+Global version phones are usually rolled out a few months after the release in the Chinese market.
 
 # Additional Resources
 - [kimovil.com](https://www.kimovil.com/en/), a very useful phone comparison website with live price-checks and coupons
@@ -77,10 +94,27 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 - Lacks a 3.5mm jack
 - Lacks MicroSD slot
 - Ugly "iPhone X"-esque rear camera hump, but worse. Can probably be saved using a case.
+- Soon to be obsolete by the Mi A3.
 
 **Reviews:**
 - [TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
 
+## [Xiaomi Mi A3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-a3)
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a3.png></p>
+
+(Note, this phone is currently yet to be announced, info subject to change!!)
+
+| Specification 	| Value |
+|-------------------|------:|
+| Price 			| ? |
+| Announcement Date		| July 17th 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 6.09" |
+| Chipset			| Snapdragon 675 |
+| ROM/RAM Sizes 	| 4/64, 4/128 (?) |
+| Battery Capacity 	| 4030 mAh |
+| 3.5mm Jack? 		| Yes |
+| SD Card Slot? 	| Yes |
 
 ## [Xiaomi Redmi Note 7](https://www.kimovil.com/en/where-to-buy-xiaomi-redmi-note-7-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_redmi_note_7.png"></p>
@@ -152,7 +186,32 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 - todo
 
 **Cons:**
-- todo
+- Made somewhat obsolete by the K20/K20 Pro.
+
+## [Xiaomi Mi 9 SE](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-9-global)
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_9.png"></p>
+
+| Specification 	| Value |
+|-------------------|------:|
+| Price 			| $300 |
+| Release Date		| February 2019 |
+| Aspect Ratio		| 19.5:9 |
+| Screen Size		| 5.97" |
+| Chipset			| Snapdragon 712 |
+| ROM/RAM Sizes 	| 6/64, 6/128 |
+| Battery Capacity 	| 3010 mAh |
+| 3.5mm Jack? 		| No |
+| SD Card Slot? 	| No |
+
+**Pros:**
+- Slightly shorter, improved ergonomics for those with smaller hands.
+- Near identical appearance to the Mi 9, chin is more pronounced on the SE.
+
+**Cons:**
+- Made somewhat obsolete by the Mi 9T, which is K20 based (has popout cam).
+- Lacks laser Autofocus of the Mi 9.
+- Lacks wireless charging of the Mi 9.
+- Lacks notification LED.
 
 ## [Xiaomi Redmi K20 Pro](https://www.kimovil.com/en/where-to-buy-redmi-855)
 <p style="text-align:center;"><img src="img/phones/xiaomi_redmi_k20_pro.png"></p>
@@ -171,12 +230,12 @@ Xiaomi is well known for their budget smartphones and are gaining more popularit
 
 **Avoid this phone for now** until more reviews are released.
 
-Most likely will be released as the Mi 9T Pro. 
+Most likely will be released as the Mi 9T Pro in Global territories.
 
 **Pros:**
 - Samsung AMOLED screen
 - Above average camera
-- Adequate cooling 
+- Adequate cooling
 - Flagship chipset
 - Good battery life
 - Best value phone right now
@@ -186,7 +245,7 @@ Most likely will be released as the Mi 9T Pro.
 - MIUI can be bloated
 - Auto-brightness is meh
 - Missing some LTE bands
-- Not available globally (for the moment) 
+- Not available globally (for the moment)
 
 ## [Xiaomi Mi Mix 3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-mix-3-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
