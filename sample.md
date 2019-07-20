@@ -50,6 +50,7 @@ Description Text
 - [Google](https://www.google.com)
 - [Other Website](https://www.google.com)
 
+It may be applicable to use a table for listing product specifications (like for phones):
 
 | Specification 	| Value |
 |-------------------|------:|

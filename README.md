@@ -4,7 +4,7 @@ The following project is an attempt to create a buying guide or infographic for 
 
 [Project Page](https://github.com/g-csg/g-csg.github.io)
 
-[Website Page](g-csg.github.io)
+[Website Page](https://g-csg.github.io/)
 
 ## Notes for Contributors
 
@@ -19,6 +19,9 @@ For any and every section, please use the following format:
 1. [Product Type A](#product-type-a)
 2. [Product Type B](#product-type-b)
 3. [Additional Resources](#additional-resources)
+
+# Information About Section
+General information goes here if applicable
 
 # Product Type A
 1. [Product 1a](#product-1a) ($10)
