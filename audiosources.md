@@ -2,71 +2,52 @@
 
 # Table of Contents
 1. [Digital-to-Audio Convertors (DACs)](#digital-to-audio-convertors-(dacs))
-2. [Lavalier Microphones](#lavalier-microphones)
-3. [Desktop Microphones](#desktop-microphones)
-4. [Audio Interfaces](#audio-interfaces)
+2. [Digital Audio Players (DAPs)](#digital-audio-players)
+3. [Amplifiers](#amplifiers)
 
 # Digital-to-Audio Convertors (DACs)
-1. [Apple USB-C Dongle](#apple-usb-c-dongle) ($a)
-2. [Tempotec Sonata HD](#tempotec-sonata-hd) ($a)
-3. [XtremPro X1](#xtrempro-x1) ($a)
+1. [Apple USB-C Dongle](#apple-usb-c-dongle) ($9)
+2. [Tempotec Sonata HD](#tempotec-sonata-hd) ($30)
+3. [XtremPro X1](#xtrempro-x1) ($30)
+4. [FX-AUDIO DAC X6](#fx-audio-dac-x6) ($65)
+5. [Topping D10](#topping-d10) ($70)
+6. [Monoprice 111567](#monoprice-111567) ($80)
+7. [Topping D30](#topping-d30) ($90)
 
 ## Apple USB-C Dongle
-TODO
+<p style="text-align:center;"><img src="img/audiosources/apple_usb_c_dongle.png"></p>
+
+**Pros:**
+- Supports in-line microphone and in-line controls, like those commonly found on earphones.
+
+**Cons:**
+- [Poor support for Android devices](https://forum.xda-developers.com/mi-a1/how-to/t3917495)
+
+**Reviews:**
+- [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php?threads/.5541/)
 
 ## Tempotec Sonata HD
-TODO
+<p style="text-align:center;"><img src="img/audiosources/tempotec_sonata_hd.png"></p>
+**Also known as the "Hidizs Sonata HD**
+
+**Pros:**
+- Supports in-line microphone and in-line controls, like those commonly found on earphones.
+
+**Cons:**
+- Too few volume steps
+
+**Reviews:**
+- [Degru on Reddit](https://www.reddit.com/r/headphones/comments/bwweul/did_someone_say_dongles_tempotechidizs_sonata_hd/eq0w2fr/)
 
 ## XtremPro X1
-TODO
+<p style="text-align:center;"><img src="img/audiosources/xtrempro_x1.png"></p>
+**Also known as the Speaka USB DAC**
 
-# Lavalier Microphones
-1. [Generic Lavalier Microphone](#generic-lavalier-microphone) ($a)
-2. [Boya BY-M1](#boya-by-m1) ($a)
-3. [Sony ECMCS33](#sony-ecmcs33) ($a)
+**Pros:**
+- TODO
 
-## Generic Lavalier Microphone
-TODO
+**Cons:**
+- TODO
 
-## Boya BY-M1
-TODO
-
-## Sony ECMCS33
-TODO
-
-# Desktop Microphones
-1. [BM800](#bm800) ($10)
-2. [Behringer Ultravoice Xm8500](#behringer-ultravoice-xm8500) ($20-$30)
-3. [Neewer NW-3U](#neewer-nw-3u) ($27)
-4. [Samson Go](#samson-go) ($35-$40)
-5. [Nady CM90](#nady-cm90) ($40-$60)
-
-## BM800
-TODO
-
-## Behringer Ultravoice Xm8500
-TODO
-
-## Neewer NW-3U
-TODO
-
-## Samson Go
-TODO
-
-## Nady CM90
-TODO
-
-# Audio Interfaces
-1. [Sabrent USB Sound Card](#sabrent-usb-sound-card) ($10)
-2. [BEHRINGER UM2](#behringer-um2) ($30-$40)
-3. [Focusrite Scarlett Solo](#focusrite-scarlett-solo) ($80-$110)
-
-## Sabrent USB Sound Card
-TODO
-
-## BEHRINGER UM2
-TODO
-
-## Focusrite Scarlett Solo
-TODO
-
+**Reviews:**
+- [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php?threads/.2423/)
