@@ -1,3 +1,17 @@
+# [g-csg.github.io](g-csg.github.io)
+
+The following project is an attempt to create a buying guide or infographic for buying products from China.
+
+[Project Page](https://github.com/g-csg/g-csg.github.io)
+
+[Website Page](g-csg.github.io)
+
+## Notes for Contributors
+
+For any and every section, please use the following format:
+(Preview this document [here!](https://g-csg.github.io/sample.html))
+
+```Markdown
 # Product Type Title
 
 # Table of Contents
@@ -49,7 +63,10 @@ Description Text
 # Additional Resources
 - [Google](https://www.google.com)
 - [Other Website](https://www.google.com)
+```
 
+It may be applicable to use a table for listing product specifications (like for phones):
+```Markdown
 
 | Specification 	| Value |
 |-------------------|------:|
@@ -62,3 +79,4 @@ Description Text
 | Battery Capacity 	| 4000 mAh |
 | 3.5mm Jack? 		| Yes |
 | SD Card Slot? 	| Yes |
+```
