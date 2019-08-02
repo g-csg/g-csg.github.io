@@ -21,7 +21,7 @@
 - Supports in-line microphone and in-line controls, like those commonly found on earphones.
 
 **Cons:**
-- [Poor support for Android devices](https://forum.xda-developers.com/mi-a1/how-to/t3917495)
+- [Poor support for some Android devices](https://forum.xda-developers.com/mi-a1/how-to/t3917495)
 
 **Reviews:**
 - [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php?threads/.5541/)

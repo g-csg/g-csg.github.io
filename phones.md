@@ -235,17 +235,19 @@ Most likely will be released as the Mi 9T Pro in Global territories.
 **Pros:**
 - Samsung AMOLED screen
 - Above average camera
-- Adequate cooling
 - Flagship chipset
 - Good battery life
-- Best value phone right now
-
 
 **Cons:**
 - MIUI can be bloated
 - Auto-brightness is meh
 - Missing some LTE bands
 - Not available globally (for the moment)
+- Poor low-light camera quality when not using HDR+
+
+**Reviews:**
+- [Marques Brownlee](https://www.youtube.com/watch?v=WpPw7lUXyI0)
+- [GSMArena](https://www.gsmarena.com/xiaomi_mi_9t-review-1950.php)
 
 ## [Xiaomi Mi Mix 3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-mix-3-global)
 <p style="text-align:center;"><img src="img/phones/xiaomi_mi_mix_3.png"></p>
