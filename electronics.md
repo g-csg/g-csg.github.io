@@ -6,62 +6,64 @@
 3. [Single Board Computer Brands](#single-board-computer-brands)
 
 # Soldering Irons
-Soldering is an invaluable aspect of electronics engineering, and a craftsman is only as good as his tools.
+1. [About Soldering](#about-soldering)
+2. [Solder](#solder)
+3. ["Integrated Cartridge" vs "Old" Style Soldering Tips](#"integrated-cartridge"-vs-"old"-style-soldering-tips)
+4. ["Old" Style Soldering Irons](#"old"-style-soldering-irons)
+5. [Integrated Tip Soldering Irons](#integrated-tip-soldering-irons)
 
-## "New" vs "Old" type.
-Budget/Chinese soldering stations and irons have somewhat recently transitioned into a new style with the popularity of JBC irons and the near-legendary Hakko FX-951, which implements an integrated tip.
-The tip of the iron is a long rod that has the heater, temperature sensor and tip element all in one. All of the power delivery is done through there, with some contacts at the bottom to receive power from the iron.
+# About Soldering
+Soldering is the process of joining together two items, typically electrical components, by melting metal to create a "joint" connection between the two. This is typically done via a "soldering iron," which is a very hot (200C-400C) metal rod. The metal that is used to create this connection is referred to as "solder," (sometimes informally referred to as just "lead") and is typically a lead-tin alloy. Leadless solder is also used, especially in large-scale manufacturing. A short video of soldering in action can be found [here.](https://youtu.be/oqV2xU1fee8?t=132) Below is a compiled list of various types of soldering irons and their features.
 
-Old iron types have a fixed heating element in the form of a ceramic core that makes contact with a sleeve to transfer into a separate tip piece.
+# Solder
+The only Chinese brand of solder that is recommended is "Kaina" branded solder. Common lead-tin ratios for hobbyist soldering applications are 60/40 or 63/37. Common diameter sizes are 0.1mm to 1.5mm but can vary depending on the application. Most solder also contain a liquid or gel-like cleaning agent called "flux" (or "rosin flux") that is contained within the metal alloy to aid in creating clean solder connections (or "joints"). When soldering, smoke is produced from the flux boiling off from contact with a hot soldering iron, and that smoke is unhealthy to inhale.
 
-A detailed video can be found [here](https://www.youtube.com/watch?v=scvS2yeUH00).
+# "Integrated Cartridge" vs "Old" Style Soldering Tips
+Soldering irons have a simple job: heat up a metal rod to an appropiate temperature to melt solder. More specifically, just the tip of a metal rod needs to be heated. There are currently two ways that conventional soldering irons do this. The "old" way that older and inexpensive soldering irons do this is by heating a ceramic rod, which interfaces to a short metal tip. A video demonstrating this can be found [here.](https://youtu.be/aSweeoah-5s?t=147) The main issues with this method is that the heat transfer between the ceramic heating element and the soldering iron tip is not optimal; there may be air gaps between the two, the ceramic heating element may be oversized and thus most of the heat is wasted into areas that aren't the tip, and it may be difficult to know the exact temperature of the tip.
 
-The editor of this section almost certainly recommends that you get an iron of the new pattern, as tip availability is still good ("T12" stations can take genuine Hakko T12 or T15 tips along with Chinese copies), and the advantages of temperature pickup, accuracy, retention and efficiency will outclass almost any old-pattern iron, regardless of how much power it spits out.
+Budget soldering irons have recently transitioned into a new style of soldering iron tips, following the popularity of JBC soldering irons and the venerated Hakko FX-951, which implements an "integrated" tip. The tip of the iron is a long rod that has the heater, temperature sensor and tip element all in one, with no air gaps between the heating element and the metal tip. All of the power delivery is done through there, with electrical contacts at the bottom to receive power from the iron. As a result of this, replacement tips are more expensive, but the gains in heating effeciency and temperature accuracy outweigh this.
 
+A detailed video comparing the two types of soldering iron tips can be found [here](https://www.youtube.com/watch?v=scvS2yeUH00).
 
-## Ceramic heater "old" type.
-There are a lot of OEMs and similar irons with different brand names or labelling. Here are a few irons:
+The editors of this section recommend getting the newer style of "integrated" tips. Even the cheapest integrated-style irons will outperform expensive "old"-style soldering irons. The advantages of heating speed, accuracy, heat retention and overall efficiency will outclass almost any "old"-style iron.
 
+# "Old" Style Soldering Irons
+Many of these soldering irons are sold under different brands, but are generally all the same.
 [Eruntop 60W](#eruntop-60w) ($5)
 [Yihua 947](#yihua-947) ($10)
 [Aoyue 469](#aoyue-469) ($30)
 [Yihua 937D](#yihua-937d) ($30)
 
-### Eruntop 60W
+## Eruntop 60W
+todo
 
 Usually comes with no name, this is a popular blue soldering iron that plugs straight into AC. The shitty potentiometer only regulates voltage, no actual temperature regulation.
 This is the cheapest of anything under the sun, aim a little higher.
 
-5-10 USD.
-
-### Yihua 947
+## Yihua 947
+todo
 
 What appears to be a slightly "upgraded" variant of the former.
 
-10-15 USD.
-
-### Aoyue 469
+## Aoyue 469
+todo
 
 A rather small soldering station with just a potentiometer and no screen.
 
-30 USD.
-
-### Yihua 937D
+## Yihua 937D
+todo
 
 This seems to be one of the better "old" type stations from China, as bulky as it is. There is also a "+" variant that is higher wattage.
-~30-40 USD
 
-## Integrated tip "new" type.
-
-This ain't your grandpa's RadioShack iron.
-Some of the "T12" stations have DIY variants where you can put together and solder a soldering station. Such is the miracle of life.
-
+# Integrated Tip Soldering Irons
 [KSGER T12](#ksger-t12) (~$40)
 [TS100](#ts100) ($50)
 [TS80](#ts80) (~$70)
 [STC T12](#stc-t12) ($20)
 
-### KSGER T12
+## KSGER T12
+todo
+
 A popular "smart" station that's powered with an STM32 controller with all of the bells and whistles. OLED Screen with proper menu, power readout, sleep mode, "boost" mode, and some other stuff.
 
 Also has an option for accurately selecting tips/calibrating tips that are Hakko or otherwise not KSGER's to get accurate temperature, and with preset profiles (for KSGER tips) and profiles to save custom tip calibrations.
@@ -78,23 +80,22 @@ The station also has a "mini" variant that has no power supply and is instead po
 [Review](https://www.rchelicopterfun.com/t12-soldering-station.html).
 [KSGER's Official Aliexpress Store](https://www.aliexpress.com/store/1486111)
 
-### TS100
+## TS100
+todo
 A pen-based soldering iron with an OLED menu that takes a barrel jack connection. A very good portable iron.
 
-~50 USD.
 [Review](https://www.youtube.com/watch?v=ao39bPEyok4)
 
-### TS80
+## TS80
+todo
 Similar as above but takes a Quick Charge 3 USB-C connection. Convenient approach if you have a QC3 power bank and do soldering out often.
 
-~70 USD.
 [Review](https://www.youtube.com/watch?v=_Z9es-D9_8g)
 
-### STC T12
+## STC T12
+todo
 Also known as the Quicko T12-951. Quicko also seem to do a KSGER-like station too.
 A T12 station with a dumber microcontroller and alarm clock segment display. Usually comes in DIY kit form and may not include PSU.
-
-~20 USD.
 
 # Microcontroller Brands
 

@@ -100,7 +100,7 @@ Global version phones are usually rolled out a few months after the release in t
 - [TechTablets Review](https://www.youtube.com/watch?v=rxerUpwgOq0)
 
 ## [Xiaomi Mi A3](https://www.kimovil.com/en/where-to-buy-xiaomi-mi-a3)
-<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a3.png></p>
+<p style="text-align:center;"><img src="img/phones/xiaomi_mi_a3.png"></p>
 
 (Note, this phone is currently yet to be announced, info subject to change!!)
 
