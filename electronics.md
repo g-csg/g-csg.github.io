@@ -22,10 +22,10 @@ The editor of this section almost certainly recommends that you get an iron of t
 ## Ceramic heater "old" type.
 There are a lot of OEMs and similar irons with different brand names or labelling. Here are a few irons:
 
-[Eruntop 60W](#eruntop-60w)
-[Yihua 947](#yihua-947)
-[Aoyue 469](#aoyue-469)
-[Yihua 937D](#yihua-937d)
+[Eruntop 60W](#eruntop-60w) ($5)
+[Yihua 947](#yihua-947) ($10)
+[Aoyue 469](#aoyue-469) ($30)
+[Yihua 937D](#yihua-937d) ($30)
 
 ### Eruntop 60W
 
@@ -42,6 +42,10 @@ What appears to be a slightly "upgraded" variant of the former.
 
 ### Aoyue 469
 
+A rather small soldering station with just a potentiometer and no screen.
+
+30 USD.
+
 ### Yihua 937D
 
 This seems to be one of the better "old" type stations from China, as bulky as it is. There is also a "+" variant that is higher wattage.
@@ -52,10 +56,10 @@ This seems to be one of the better "old" type stations from China, as bulky as i
 This ain't your grandpa's RadioShack iron.
 Some of the "T12" stations have DIY variants where you can put together and solder a soldering station. Such is the miracle of life.
 
-[KSGER T12](#ksger-t12)
-[TS100](#ts100)
-[TS80](#ts80)
-[STC T12](#stc-t12)
+[KSGER T12](#ksger-t12) (~$40)
+[TS100](#ts100) ($50)
+[TS80](#ts80) (~$70)
+[STC T12](#stc-t12) ($20)
 
 ### KSGER T12
 A popular "smart" station that's powered with an STM32 controller with all of the bells and whistles. OLED Screen with proper menu, power readout, sleep mode, "boost" mode, and some other stuff.
@@ -82,11 +86,15 @@ A pen-based soldering iron with an OLED menu that takes a barrel jack connection
 
 ### TS80
 Similar as above but takes a Quick Charge 3 USB-C connection. Convenient approach if you have a QC3 power bank and do soldering out often.
-Usually more expensive, 70 USD or so.
+
+~70 USD.
 [Review](https://www.youtube.com/watch?v=_Z9es-D9_8g)
 
 ### STC T12
-A T12 station with a dumber microcontroller and alarm clock segment display.
+Also known as the Quicko T12-951. Quicko also seem to do a KSGER-like station too.
+A T12 station with a dumber microcontroller and alarm clock segment display. Usually comes in DIY kit form and may not include PSU.
+
+~20 USD.
 
 # Microcontroller Brands
 
