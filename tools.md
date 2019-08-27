@@ -1,28 +1,52 @@
-## Tools
-| Hand Tools | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Xiaomi Wiha Precision Screwdriver Kit | 4 | Notes 1 | Image 1 |
-| Xiaomi Wiha Ratcheting Screwdriver Kit | 10 | Notes 1 | Image 1 |
-| Mini ES121 | Price1 USD | Notes 1 | Image 1 |
+# Tools
 
-## Knives
+# Table of Contents
+1. [Hand Tools](#hand-tools)
+2. [Folding Knives](#folding-knives)
+3. [Additional Resources](#additional-resources)
 
-| Chinese Knife Brands | Notes |
-|-|-|
-| Sanrenmu | Evidence suggests they manufacture knives for Ruike, Benchmade, Spyderco, and Real Steel. | 
-| Ganzo or "Ganzo Firebird" | 10 | |
-| Artisan Cutlery | 10 | 
-| Bestech | 10 | 
-| CH Knives | Knife steel hardnesses are sometimes lower than advertised |
-| Civivi | Subsidary of WE Knives |
-| Eafengrow | Lies about knife steel material, avoid |
-| Fura | Lies about knife steel material, avoid |
-| Kubey | Image 1 |
-| Y-Start | Some models have incorrect knife steels labeled (e.g JN02) |
-| Twosun | Image 1 |
-| Kubey | Image 1 |
-| Kizer | Image 1 |
-| Stedemon | Image 1 |
+# Hand Tools
+
+These products include tools like screwdrivers and multitools. For electronic tools like soldering irons, see [Electronics](https://g-csg.github.io/electronics.html)
+
+1. [Xiaomi Wiha Precision Screwdriver Kit](#xiaomi-wiha-precision-screwdriver-kit)
+2. [Mini ES121](#mini-es121)
+
+## Xiaomi Wiha Precision Screwdriver Kit
+TODO
+
+## Mini ES121
+TODO 
+
+# Folding Knives
+
+High quality folding knives can be found from China. There are typically more options available for low budget knives when considering Chinese brands versus western brands, such as having more options for blade steels, handle materials, and locking systems. Below is a list of trusted and untrusted manufacturors, in no particular order.
+
+## Reputable Knife Brands
+- Sanrenmu
+- Ganzo
+- Artisan Cutlery
+- CH Knives
+- Civivi
+- Kubey
+- Y-Start
+- Twosun
+- Kubey
+- Kizer
+- Stedemon
+
+## Untrustworthy Knife Brands
+- Eafengrow (Lies about knife steel material)
+- Fura (Lies about knife steel material)
+
+## Compact Knives
+TODO
+
+## EDC Knives
+TODO
+
+## Automatic Knives
+TODO
 
 | Pocket (or Folding) Knives | Price (USD) | Notes | Image |
 |-|-|-|-|
