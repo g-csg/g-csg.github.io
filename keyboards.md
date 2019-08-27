@@ -6,7 +6,8 @@
 3. [Sub-70%](#sub-70%)
 4. [Tenkeyless](#tenkeyless)
 5. [Fullsized](#fullsized)
-6. [Additional Resources](#additional-resources)
+6. [Custom-Built Keyboards](#custom-built-keyboards)
+7. [Additional Resources](#additional-resources)
 
 # Mechanical Switches
 
@@ -55,6 +56,9 @@ Mechanical keyboards come in a variety of keyboard sizes. Conventional keyboards
 # Fullsized
 1. [Motospeed CK89](#motospeed-ck89)
 2. [Hexgears GK705](#hexgears-gk705)
+
+# Custom Keyboards
+TODO
 
 
 # Additional Resources:

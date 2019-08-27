@@ -20,7 +20,7 @@ TODO
 
 # Folding Knives
 
-High quality folding knives can be found from China. There are typically more options available for low budget knives when considering Chinese brands versus western brands, such as having more options for blade steels, handle materials, and locking systems. Below is a list of trusted and untrusted manufacturors, in no particular order.
+High quality folding knives can be found from China. There are typically more options available for low budget knives when considering Chinese brands versus western brands, such as having more options for blade steels, handle materials, and locking systems. Below is a non-exhaustive list of trusted and untrusted manufacturors, in no particular order.
 
 ## Reputable Knife Brands
 - Sanrenmu
@@ -34,37 +34,40 @@ High quality folding knives can be found from China. There are typically more op
 - Kubey
 - Kizer
 - Stedemon
+- Ruike
 
 ## Untrustworthy Knife Brands
 - Eafengrow (Lies about knife steel material)
 - Fura (Lies about knife steel material)
+- Tac-Force (Consistantly poor build quality and materials)
+
 
 ## Compact Knives
-TODO
+TODO: Expand
+1. [Sanrenmu GV-504]
+2. [Sanrenmi 6044]
 
-## EDC Knives
+## Budget EDC Knives
+TODO: Shorten and sort by price
+1. [Ganzo Firebird F759M]
+2. [Sanrenmu Land 910+]
+3. [Ganzo G704]
+4. [Ganzo F7562]
+5. [Ganzo G729]
+6. [Ruike P801]
+7. [Sanrenmu 1161]
+8. [Ganzo FH41]
+9. [Ganzo FB7601]
+
+## Mid-Range EDC Knives
 TODO
+1. [Twosun ...]
+2. [CH Knives ...]
+3. [We Knives ...]
+
 
 ## Automatic Knives
 TODO
-
-| Pocket (or Folding) Knives | Price (USD) | Notes | Image |
-|-|-|-|-|
-| Sanrenmu GV-504 | 4 | Notes 1 | Image 1 |
-| Sanrenmu 6044 | 10 | Notes 1 | Image 1 |
-| Ganzo Firebird F759M | 10 | Notes 1 | Image 1 |
-| Sanrenmu Land 910+/9103/9104 | 10 | Notes 1 | Image 1 |
-| Ganzo G704 | 10 | Notes 1 | Image 1 |
-| Ganzo F7562 | 10 | Notes 1 | Image 1 |
-| Ganzo G729/G730 | 10 | Notes 1 | Image 1 |
-| Ruike P801/P108 | 10 | Notes 1 | Image 1 |
-| Sanrenmu 1161 | 10 | Notes 1 | Image 1 |
-| Ganzo FH41 | 10 | Notes 1 | Image 1 |
-| Ganzo FB7601 | 10 | Notes 1 | Image 1 |
-| Twosun TODO | 10 | Notes 1 | Image 1 |
-| CH Knives TODO | 10 | Notes 1 | Image 1 |
-| Vespa Clones TODO | 10 | Notes 1 | Image 1 |
-| WE Knives TODO | 10 | Notes 1 | Image 1 |
 
 Additional Resources:
  - ["What's the best steel for an EDC pocketknife?"](https://www.youtube.com/watch?v=o_scXk2JAZc) - Overview of knife steels by Shabazz
