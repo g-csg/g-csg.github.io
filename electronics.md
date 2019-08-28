@@ -28,7 +28,7 @@ A detailed video comparing the two types of soldering iron tips can be found [he
 
 The editors of this section recommend getting the newer style of "integrated" tips. Even the cheapest integrated-style irons will outperform expensive "old"-style soldering irons. The advantages of heating speed, accuracy, heat retention and overall efficiency will outclass almost any "old"-style iron.
 
-# Tip shapes and tip applications
+# Tip Shapes and Applications
 Different soldering iron tip shapes will serve different purposes when soldering, and you will need to choose the correct tip for the technique/component you are soldering on. [Hakko's T12/T15 Cartridge standard accommodates various shapes.](http://www.hakko.com/english/tip_selection/series_t15.html) For example, an appropriate general-use soldering tip would be a chisel "BC/C" tip, as opposed to something like a thin conical tip "I" tip, where the very tip has poor heat transfer.
 
 # "Old" Style Soldering Irons
