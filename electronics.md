@@ -9,18 +9,18 @@
 1. [About Soldering](#about-soldering)
 2. [Solder](#solder)
 3. ["Integrated Cartridge" vs "Old" Style Soldering Tips](#"integrated-cartridge"-vs-"old"-style-soldering-tips)
-4. ["Tip shapes and tip applications"](#Tip-shapes-and-tip-applications)
+4. [Tip Shapes and Applications](#tip-shapes-and-applications)
 5. ["Old" Style Soldering Irons](#"old"-style-soldering-irons)
 6. [Integrated Tip Soldering Irons](#integrated-tip-soldering-irons)
 
 # About Soldering
-Soldering is the process of joining together two items, typically electrical components, by melting metal to create a "joint" connection between the two. This is typically done via a "soldering iron," which is a very hot (200C-400C) metal rod. The metal that is used to create this connection is referred to as "solder," (sometimes informally referred to as just "lead") and is typically a lead-tin alloy. Leadless solder is also used, especially in large-scale manufacturing. A short video of soldering in action can be found [here.](https://youtu.be/oqV2xU1fee8?t=132) Below is a compiled list of various types of soldering irons and their features.
+Soldering is the process of joining together two items, typically electrical components, by melting metal to create a "joint" connection between the two. This is typically done via a "soldering iron," which is a very hot (200C-400C) metal rod. The metal that is used to create this connection is referred to as "solder," (sometimes informally referred to as just "lead") and is typically a lead-tin alloy. Leadless solder is also used, especially in large-scale manufacturing. A short video of soldering in action can be found [here.](https://youtu.be/oqV2xU1fee8?t=132)
 
 # Solder
-[The only Chinese brand of solder that is recommended is "Kaina" branded solder.](https://www.youtube.com/watch?v=DWbQbC3hGXQ) Common lead-tin ratios for hobbyist soldering applications are 60/40 or 63/37. Common diameter sizes are 0.1mm to 1.5mm but can vary depending on the application. Most solder also contain a liquid or gel-like cleaning agent called "flux" (or "rosin flux") that is contained within the metal alloy to aid in creating clean solder connections (or "joints"). When soldering, smoke is produced from the flux boiling off from contact with a hot soldering iron, and that smoke is unhealthy to inhale.
+Common lead-tin ratios for hobbyist soldering applications are 60/40 or 63/37. Common diameter sizes are 0.1mm to 1.5mm but can vary depending on the application. Most solder also contain a liquid or gel-like cleaning agent called "flux" (or "rosin flux") that is contained within the metal alloy to aid in creating clean solder connections (or "joints"). When soldering, smoke is produced from the flux boiling off from contact with a hot soldering iron, and that smoke is unhealthy to inhale. The only Chinese brand of solder that is recommended is ["Kaina" branded solder](https://www.aliexpress.com/item/32679230667.html). A comparison between different Chinese lead brands can be found [here.](https://youtu.be/DWbQbC3hGXQ) 
 
 # "Integrated Cartridge" vs "Old" Style Soldering Tips
-Soldering irons have a simple job: heat up a metal rod to an appropiate temperature to melt solder. More specifically, just the tip of a metal rod needs to be heated. There are currently two ways that conventional soldering irons do this. The "old" way that older and inexpensive soldering irons do this is by heating a ceramic rod, which interfaces to a short metal tip. A video demonstrating this can be found [here.](https://youtu.be/aSweeoah-5s?t=147) The main issues with this method is that the heat transfer between the ceramic heating element and the soldering iron tip is not optimal; there may be air gaps between the two, the ceramic heating element may be oversized and thus most of the heat is wasted into areas that aren't the tip, and it may be difficult to know the exact temperature of the tip.
+Soldering irons have a simple job: heat up a metal rod to an appropiate temperature to melt solder. More specifically, just the tip of a metal rod needs to be heated. There are currently two ways that conventional soldering irons do this. The "old" way that older and inexpensive soldering irons do this is by heating a ceramic rod, which interfaces to a short metal tip. A video demonstrating this can be found [here.](https://youtu.be/aSweeoah-5s?t=147) The main issues with this method is that the heat transfer between the ceramic heating element and the soldering iron tip is not optimal; there may be air gaps between the two, the ceramic heating element may be oversized and thus most of the heat is wasted into areas that aren't the tip, and it may be difficult to know the exact temperature of the tip. However, tips are typically very inexpensive.
 
 Budget soldering irons have recently transitioned into a new style of soldering iron tips, following the popularity of JBC soldering irons and the venerated Hakko FX-951, which implements an "integrated" tip. The tip of the iron is a long rod that has the heater, temperature sensor and tip element all in one, with no air gaps between the heating element and the metal tip. All of the power delivery is done through there, with electrical contacts at the bottom to receive power from the iron. As a result of this, replacement tips are more expensive, but the gains in heating effeciency and temperature accuracy outweigh this.
 
@@ -29,16 +29,14 @@ A detailed video comparing the two types of soldering iron tips can be found [he
 The editors of this section recommend getting the newer style of "integrated" tips. Even the cheapest integrated-style irons will outperform expensive "old"-style soldering irons. The advantages of heating speed, accuracy, heat retention and overall efficiency will outclass almost any "old"-style iron.
 
 # Tip shapes and tip applications
-Different soldering iron tip shapes will serve different purposes when soldering, and you will need to choose the correct tip for the technique/component you are soldering on.
-Hakko's T12/T15 Cartridge standard accommodates various shapes, refer to [here for an idea](http://www.hakko.com/english/tip_selection/series_t15.html).
-For example, an appropriate point soldering tip would be a chisel "BC/C" tip, as opposed to something like a thin conical tip "I" tip, where the very tip has poor heat transfer.
+Different soldering iron tip shapes will serve different purposes when soldering, and you will need to choose the correct tip for the technique/component you are soldering on. [Hakko's T12/T15 Cartridge standard accommodates various shapes.](http://www.hakko.com/english/tip_selection/series_t15.html) For example, an appropriate general-use soldering tip would be a chisel "BC/C" tip, as opposed to something like a thin conical tip "I" tip, where the very tip has poor heat transfer.
 
 # "Old" Style Soldering Irons
 Many of these soldering irons are sold under different brands, but are generally all the same.
-[Eruntop 60W](#eruntop-60w) ($5)
-[Yihua 947](#yihua-947) ($10)
-[Aoyue 469](#aoyue-469) ($30)
-[Yihua 937D](#yihua-937d) ($30)
+1. [Eruntop 60W](#eruntop-60w) ($5)
+2. [Yihua 947](#yihua-947) ($10)
+3. [Aoyue 469](#aoyue-469) ($30)
+4. [Yihua 937D](#yihua-937d) ($30)
 
 ## Eruntop 60W
 todo
